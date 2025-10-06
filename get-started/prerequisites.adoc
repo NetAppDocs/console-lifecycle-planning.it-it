@@ -14,9 +14,9 @@ summary: 'Inizia a pianificare il ciclo di vita NetApp verificando il supporto p
 [role="lead"]
 Inizia con la pianificazione del ciclo di vita verificando la prontezza del tuo ambiente operativo, dell'accesso e dell'accesso alla rete.  Per utilizzare la pianificazione del ciclo di vita, è necessario assicurarsi che l'ambiente soddisfi tutti i requisiti.
 
-* L'ambiente deve soddisfare tutti i requisiti della console NetApp , tra cui l'accesso di accesso alla rete tramite un browser Web.
+* L'ambiente deve soddisfare tutti i requisiti NetApp Console, tra cui un login e l'accesso alla rete da un browser web.
 +
-Fare riferimento al https://docs.netapp.com/us-en/bluexp-setup-admin/task-quick-start-standard-mode.html["Avvio rapido della console NetApp"^] E https://docs.netapp.com/us-en/bluexp-setup-admin/reference-networking-saas-console.html["Informazioni di rete della console NetApp"^] .
+Fare riferimento al https://docs.netapp.com/us-en/bluexp-setup-admin/task-quick-start-standard-mode.html["Avvio rapido NetApp Console"^] E https://docs.netapp.com/us-en/bluexp-setup-admin/reference-networking-saas-console.html["Informazioni di rete NetApp Console"^] .
 
 * È necessario disporre delle credenziali di accesso ai cluster.
 * Sebbene non sia un requisito, è utile che l'agente NetApp Console sia installato e abilitato e che il sistema ONTAP venga rilevato.  In caso contrario, il servizio ti guiderà attraverso tali procedure.

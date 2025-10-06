@@ -16,7 +16,7 @@ La pianificazione del ciclo di vita valuta le risorse di storage con capacità a
 
 
 
-== Console NetApp
+== NetApp Console
 
 La pianificazione del ciclo di vita è accessibile tramite la NetApp Console.
 
@@ -24,7 +24,7 @@ NetApp Console offre una gestione centralizzata dei servizi di storage e dati Ne
 
 Per iniziare a utilizzare NetApp Console non è necessaria una licenza o un abbonamento e verranno addebitati costi solo quando sarà necessario distribuire gli agenti della console nel cloud per garantire la connettività ai sistemi di storage o ai servizi dati NetApp . Tuttavia, alcuni servizi dati NetApp accessibili dalla Console sono concessi in licenza o basati su abbonamento.
 
-Scopri di più su https://docs.netapp.com/us-en/bluexp-setup-admin/concept-overview.html["Console NetApp"] .
+Scopri di più su https://docs.netapp.com/us-en/bluexp-setup-admin/concept-overview.html["NetApp Console"] .
 
 
 
@@ -61,4 +61,4 @@ Se decidi di archiviare i dati inattivi su cloud, dovrai verificare con il tuo p
 
 == Accesso
 
-È possibile accedere a questa funzionalità tramite la console NetApp (*Storage* > *Pianificazione del ciclo di vita*) o tramite Active IQ Digital Advisor (noto anche come Digital Advisor) (*Dashboard* > *Widget di pianificazione* > *Aggiornamento tecnologico*).
+È possibile accedere a questa funzionalità tramite la NetApp Console (*Storage* > *Pianificazione del ciclo di vita*) o tramite Active IQ Digital Advisor (noto anche come Digital Advisor) (*Dashboard* > *Widget di pianificazione* > *Aggiornamento tecnologico*).

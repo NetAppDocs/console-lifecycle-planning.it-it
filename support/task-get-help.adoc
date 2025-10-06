@@ -109,7 +109,7 @@ Questo errore potrebbe significare che l'account NSS e la società registrata a 
 
 Puoi visualizzare e gestire i casi di supporto attivi e risolti direttamente da BlueXP. Puoi gestire i casi associati al tuo account NSS e alla tua azienda.
 
-La gestione dei casi è disponibile in anteprima.  Abbiamo intenzione di perfezionare questa esperienza e aggiungere miglioramenti nelle prossime versioni.  Inviaci il tuo feedback tramite la chat interna al prodotto.
+La gestione dei casi è disponibile in anteprima. Abbiamo intenzione di perfezionare questa esperienza e aggiungere miglioramenti nelle prossime versioni. Inviaci il tuo feedback tramite la chat interna al prodotto.
 
 Notare quanto segue:
 

@@ -19,7 +19,7 @@ Uno dei consigli potrebbe essere quello di aumentare la capacità aggiungendo ri
 Puoi facilmente inviare la raccomandazione come richiesta di preventivo o come richiesta di opzioni alternative al team di vendita NetApp .
 
 .Passi
-. link:../get-started/capacity-login.html["Accedi alla console NetApp"] .
+. link:../get-started/capacity-login.html["Accedi alla NetApp Console"] .
 . Selezionare *Pianificazione della capacità*.
 . Selezionare *Valuta opzioni di archiviazione* per la risorsa.
 . Seleziona *Aggiungi capacità*.

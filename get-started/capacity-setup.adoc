@@ -15,7 +15,7 @@ summary: Per utilizzare la pianificazione del ciclo di vita, è necessario esegu
 Per utilizzare la pianificazione del ciclo di vita, è necessario eseguire alcuni passaggi per configurarla.
 
 * Revisionelink:../get-started/prerequisites.html["prerequisiti"] per garantire che il tuo sistema sia pronto.
-* Creare un agente Console nella console NetApp .
+* Creare un agente Console nella NetApp Console.
 * Scopri il cluster nella Console.
 
 
@@ -25,7 +25,7 @@ Allo stesso modo, è possibile scoprire il cluster in anticipo utilizzando la Co
 
 
 
-== Creare un agente Console nella console NetApp
+== Creare un agente Console nella NetApp Console
 
 Un agente NetApp Console include le credenziali per le macchine NetApp ONTAP .
 
@@ -33,7 +33,7 @@ Per creare un agente Console nella Console prima di utilizzare il servizio, fare
 
 
 
-== Scopri il cluster nella console NetApp
+== Scopri il cluster nella NetApp Console
 
 Una parte della configurazione prevede l'identificazione del nome del cluster, dell'IP, del nome utente e della password all'interno della Console.
 

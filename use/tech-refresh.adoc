@@ -39,7 +39,7 @@ La valutazione comprende i seguenti passaggi:
 
 
 .Passi
-. link:../get-started/capacity-login.html["Accedi alla console NetApp"] .
+. link:../get-started/capacity-login.html["Accedi alla NetApp Console"] .
 . Seleziona *Aggiornamento tecnologico*.
 +
 image:tech-refresh.png["Pagina di aggiornamento tecnologico che mostra i candidati all'aggiornamento tecnologico"]
@@ -92,7 +92,7 @@ image:tech-refresh-view-recommendations2.png["Visualizza la pagina delle raccoma
 Potresti voler rivedere le valutazioni di aggiornamento tecnologico che hai già effettuato e rivedere nuovamente le raccomandazioni.
 
 .Passi
-. Dal menu di navigazione a sinistra della console NetApp , seleziona *Governance* > *Pianificazione del ciclo di vita* > *Aggiornamento tecnologico*.
+. Dal menu di navigazione a sinistra NetApp Console , seleziona *Governance* > *Pianificazione del ciclo di vita* > *Aggiornamento tecnologico*.
 . Seleziona la scheda *Candidati all'aggiornamento tecnologico*, che elenca tutti i sistemi su cui hai sostenuto una valutazione di aggiornamento tecnologico.  Quindi, dal menu Azioni sulla riga relativa a quel sistema, seleziona per visualizzare le valutazioni e le raccomandazioni per quel sistema.
 . Nella pagina Valuta opzioni di aggiornamento, seleziona *Visualizza raccomandazione*.
 . Visualizza i consigli di aggiornamento.
@@ -110,7 +110,7 @@ Se hai inviato i log AutoSupport a NetApp negli ultimi 90 giorni, NetApp è in g
 È possibile includere o escludere carichi di lavoro specifici dalla simulazione.  È anche possibile aggiungere carichi di lavoro se non compaiono nell'elenco dei carichi di lavoro esistenti.
 
 .Passi
-. Dal menu di navigazione a sinistra della console NetApp , seleziona *Governance* > *Pianificazione del ciclo di vita* > *Aggiornamento tecnologico*.
+. Dal menu di navigazione a sinistra NetApp Console , seleziona *Governance* > *Pianificazione del ciclo di vita* > *Aggiornamento tecnologico*.
 +
 image:tech-refresh-list2.png["Pagina di aggiornamento tecnologico che mostra la scheda Candidati per l'aggiornamento tecnologico"]
 
@@ -166,7 +166,7 @@ I suggerimenti derivanti dalla simulazione del carico di lavoro vengono inviati 
 È possibile aggiungere alla simulazione del carico di lavoro un carico di lavoro non ancora elencato.
 
 .Passi
-. link:../get-started/capacity-login.html["Accedi alla console NetApp"] .
+. link:../get-started/capacity-login.html["Accedi alla NetApp Console"] .
 . Seleziona *Aggiornamento tecnologico*.
 +
 image:tech-refresh-list2.png["Pagina di aggiornamento tecnologico che mostra la scheda Candidati per l'aggiornamento tecnologico"]

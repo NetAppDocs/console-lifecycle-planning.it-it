@@ -22,7 +22,7 @@ Se le risorse di storage nel tuo ambiente sono attualmente al di sotto o si prev
 
 
 .Passi
-. link:../get-started/capacity-login.html["Accedi alla console NetApp"] .
+. link:../get-started/capacity-login.html["Accedi alla NetApp Console"] .
 . Dal menu di navigazione a sinistra, seleziona *Capacità*.
 +
 image:capacity-page.png["Pagina di capacità che mostra un elenco di sistemi"]

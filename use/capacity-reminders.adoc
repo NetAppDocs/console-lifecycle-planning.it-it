@@ -12,10 +12,10 @@ summary: Invece di aggiungere capacità o suddividere in livelli i dati inattivi
 
 
 [role="lead"]
-Invece di aggiungere capacità o dati inattivi di livello, nella pianificazione del ciclo di vita puoi scegliere di non richiedere alcuna azione in questo momento e impostare promemoria per controllare nuovamente dopo 30, 60 o 90 giorni.
+Invece di aggiungere capacità o dati cold di livello, nella pianificazione del ciclo di vita puoi scegliere di non richiedere alcuna azione in questo momento e impostare promemoria per controllare nuovamente dopo 30, 60 o 90 giorni.
 
 .Passi
-. link:../get-started/capacity-login.html["Accedi alla console NetApp"] .
+. link:../get-started/capacity-login.html["Accedi alla NetApp Console"] .
 . Selezionare *Valuta opzioni di archiviazione* per la risorsa.
 . Seleziona *Nessuna azione richiesta*.
 . Scegli quando desideri essere nuovamente avvisato di un potenziale problema di bassa capacità: 30, 60 o 90 giorni.

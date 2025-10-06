@@ -24,7 +24,7 @@ Il processo di cloud tiering include i seguenti processi:
 
 
 .Passi
-. link:../get-started/capacity-login.html["Accedi alla console NetApp"] .
+. link:../get-started/capacity-login.html["Accedi alla NetApp Console"] .
 . Selezionare *Valuta opzioni di archiviazione* per la risorsa.
 . Selezionare *Dati a freddo di livello*.
 . I passaggi successivi dipendono dal fatto che l'agente Console sia già stato distribuito e il cluster sia stato rilevato:
@@ -47,6 +47,6 @@ Dopo aver distribuito l'agente Console, NetApp Cloud Tiering rileva il cluster, 
 
 . Dopo aver individuato il cluster, impostare la suddivisione in livelli.
 +
-Per i dettagli sulla suddivisione in livelli, fare riferimento a https://docs.netapp.com/us-en/bluexp-tiering/index.html["Documentazione di NetApp Cloud Tiering"^] .
+Per i dettagli sulla suddivisione in livelli, fare riferimento a https://docs.netapp.com/us-en/bluexp-tiering/index.html["Documentazione NetApp Cloud Tiering"^] .
 
 

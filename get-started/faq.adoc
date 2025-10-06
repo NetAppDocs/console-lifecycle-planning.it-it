@@ -20,7 +20,7 @@ Questa FAQ può aiutarti se stai cercando una risposta rapida a una domanda sull
 
 *Qual è l'URL della pianificazione del ciclo di vita?*
 
-Per l'URL, in un browser, inserisci: https://console.netapp.com/["https://console.netapp.com/"^] per accedere alla console NetApp .
+Per l'URL, in un browser, inserisci: https://console.netapp.com/["https://console.netapp.com/"^] per accedere alla NetApp Console.
 
 
 
