@@ -1,0 +1,52 @@
+---
+sidebar: sidebar 
+permalink: use/capacity-tier-data.html 
+keywords: economic efficiency remediate, economic efficiency, capacity planning, add capacity, lifecycle planning 
+summary: 'La pianificazione del ciclo di vita fornisce raccomandazioni basate sulla crescita prevista dei dati.  Puoi accettare la previsione oppure inserire la tua previsione.  Sulla base di ciò, il servizio presenta raccomandazioni che soddisfano la crescita della capacità prevista e sono le più ottimali per la configurazione delle risorse.  Uno dei consigli potrebbe essere quello di spostare i dati inattivi nell"archiviazione cloud per liberare capacità.  Questa raccomandazione avvia la connessione a NetApp Cloud Tiering, un altro prodotto.' 
+---
+= Suddividi i dati inattivi nell'archiviazione cloud e libera lo spazio di archiviazione identificato dalla pianificazione del ciclo di vita
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+La pianificazione del ciclo di vita fornisce raccomandazioni basate sulla crescita prevista dei dati.  Puoi accettare la previsione oppure inserire la tua previsione.  Sulla base di ciò, la pianificazione del ciclo di vita presenta raccomandazioni che soddisfano la crescita della capacità prevista e sono le più ottimali per la configurazione delle risorse di storage.  Uno dei consigli potrebbe essere quello di spostare i dati inattivi nell'archiviazione cloud per liberare capacità.  Questa raccomandazione avvia la connessione a NetApp Cloud Tiering, un altro prodotto.
+
+Da lì, è possibile suddividere i dati in livelli e tornare facilmente alla pianificazione del ciclo di vita per intervenire su altri sistemi.
+
+Il processo di cloud tiering include i seguenti processi:
+
+* Distribuisci un agente della console
+* Scopri il cluster
+* Impostare il tiering sul cloud
+
+
+.Passi
+. link:../get-started/capacity-login.html["Accedi alla console NetApp"] .
+. Selezionare *Valuta opzioni di archiviazione* per la risorsa.
+. Selezionare *Dati a freddo di livello*.
+. I passaggi successivi dipendono dal fatto che l'agente Console sia già stato distribuito e il cluster sia stato rilevato:
++
+** Se è necessario distribuire l'agente Console, fare riferimento alla documentazione di NetApp Console che descrive https://docs.netapp.com/us-en/bluexp-setup-admin/concept-connectors.html["Come creare l'agente Console"^] .  In caso contrario, se hai già distribuito l'agente Console, l'opzione per distribuire l'agente non verrà visualizzata.
+** Se il servizio deve rilevare il cluster, fare riferimento a https://docs.netapp.com/us-en/bluexp-ontap-onprem/task-discovering-ontap.html["Scopri i cluster ONTAP on-premise"^] .  In caso contrario, se il cluster è già stato rilevato, l'opzione per rilevarlo non verrà visualizzata.
++
+La pianificazione del ciclo di vita avvia la connessione a NetApp Cloud Tiering, un altro prodotto.
+
++
+image:capacity-tier-cold-data.png["Pagina della capacità che mostra l'opzione per suddividere in livelli i dati inattivi"]
+
+
+
+. Selezionare *Distribuisci agente*.
+. Scegli un provider cloud e seleziona *Continua*.
+. Selezionare *Continua* o *Vai alla distribuzione*.
++
+Dopo aver distribuito l'agente Console, NetApp Cloud Tiering rileva il cluster, se non è già stato rilevato.
+
+. Dopo aver individuato il cluster, impostare la suddivisione in livelli.
++
+Per i dettagli sulla suddivisione in livelli, fare riferimento a https://docs.netapp.com/us-en/bluexp-tiering/index.html["Documentazione di NetApp Cloud Tiering"^] .
+
+

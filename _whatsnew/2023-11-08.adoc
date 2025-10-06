@@ -1,0 +1,9 @@
+= Aggiornamento tecnologico
+:allow-uri-read: 
+
+
+
+
+=== Aggiornamento tecnologico
+
+Questa versione di BlueXP economic efficiency include una nuova opzione per valutare le tue risorse e stabilire se è consigliabile un aggiornamento tecnologico.  BlueXP economic efficiency include una nuova opzione di aggiornamento tecnologico nella barra di navigazione a sinistra, nuove pagine in cui è possibile valutare i carichi di lavoro e le risorse attuali e un report che fornisce consigli.

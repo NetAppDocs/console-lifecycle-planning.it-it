@@ -1,0 +1,198 @@
+---
+sidebar: sidebar 
+permalink: use/tech-refresh.html 
+keywords: lifecycle planning, tech refresh, technology update, hardware assessment 
+summary: 'Se disponi di risorse esistenti e desideri effettuare una valutazione per stabilire se è consigliabile un aggiornamento tecnologico, puoi utilizzare l"opzione di aggiornamento tecnologico della pianificazione del ciclo di vita.  Il processo valuta i tuoi attuali carichi di lavoro e risorse e ti fornisce consigli su come procedere.  Oppure puoi provare una simulazione del carico di lavoro.' 
+---
+= Valutare un aggiornamento tecnologico utilizzando la pianificazione del ciclo di vita
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+Se disponi di risorse esistenti e desideri stabilire se è consigliabile un aggiornamento tecnologico, puoi utilizzare le opzioni di aggiornamento tecnologico della pianificazione del ciclo di vita.  Puoi esaminare una breve valutazione dei tuoi carichi di lavoro attuali e ricevere consigli oppure, se hai inviato i registri AutoSupport a NetApp negli ultimi 90 giorni, il servizio può fornire una simulazione del carico di lavoro per vedere come si comportano i tuoi carichi di lavoro sul nuovo hardware.
+
+* <<Fai una valutazione di aggiornamento>>
+* <<Simulare carichi di lavoro su nuovo hardware>>
+
+
+I sistemi sono considerati candidati per un aggiornamento tecnologico in base a quanto segue:
+
+* Avvicinandosi alla fine del contratto di supporto tecnico
+* Avvicinandosi alla fine del ciclo di vita dell'hardware
+
+
+
+TIP: È possibile accedere a questa funzionalità tramite la pianificazione del ciclo di vita o tramite Digital Advisor.
+
+
+
+== Fai una valutazione di aggiornamento
+
+La valutazione comprende i seguenti passaggi:
+
+* Seleziona i sistemi che vuoi valutare.
+* Specifica i tuoi requisiti in merito ad ambienti, tipi di carico di lavoro, capacità, prestazioni e budget.
+* Visualizza i consigli sui prodotti e servizi cloud più adatti che potrebbero migliorare le prestazioni del tuo ambiente.
+
+
+.Passi
+. link:../get-started/capacity-login.html["Accedi alla console NetApp"] .
+. Seleziona *Aggiornamento tecnologico*.
++
+image:tech-refresh.png["Pagina di aggiornamento tecnologico che mostra i candidati all'aggiornamento tecnologico"]
+
+. Consulta la scheda *Candidati all'aggiornamento tecnologico*, che elenca tutti i sistemi che potrebbero trarre vantaggio da un aggiornamento tecnologico.
+. Seleziona il sistema su cui vuoi ottenere una valutazione.
+. Dalla colonna Azioni, seleziona *Valuta aggiornamento*.
++
+image:tech-refresh-systems.png["Sistemi da includere nell'aggiornamento tecnologico"]
+
+. Selezionare il sistema o i sistemi su cui si desidera eseguire la valutazione e selezionare *Avanti*.
+. Definire i requisiti:
++
+.. *Ambienti*: seleziona i tipi di ambiente desiderati: cloud pubblico, cloud ibrido o on-premise.
++
+image:tech-refresh-requirements-environments4.png["Pagina dei requisiti di aggiornamento tecnologico che mostra le scelte ambientali"]
+
+.. *Carichi di lavoro*: seleziona tutti i tipi di carichi di lavoro che desideri gestire: applicazioni aziendali critiche, analisi e calcolo ad alte prestazioni, data lake e flussi di lavoro multimediali, storage secondario o carichi di lavoro meno critici.
++
+image:tech-refresh-requirements-workload-tiles.png["Scelte del carico di lavoro"]
+
+.. *Capacità*: immettere i requisiti di capacità in TiB, far scorrere il cursore sul valore oppure posizionare il cursore sul valore nel cursore e selezionare *Avanti*.
+.. *Prestazioni*: seleziona gli aspetti delle prestazioni che desideri gestire: latenza minima, IOPS più elevati, carichi di lavoro misti o prestazioni non importanti e seleziona *Avanti*.
++
+image:tech-refresh-requirements-performance-tiles.png["Scelte di prestazione"]
+
+.. *Budget*: inserisci un budget in dollari USA, fai scorrere il cursore fino al valore desiderato oppure posiziona il cursore sul valore nel cursore e seleziona *Avanti*.
++
+Per le opzioni scelte, verrà visualizzata una serie di raccomandazioni in schede diverse.
+
+
+
+. Rivedi i consigli.
++
+image:tech-refresh-view-recommendations2.png["Visualizza la pagina delle raccomandazioni per la valutazione degli aggiornamenti"]
+
+. Eseguire una o entrambe le seguenti operazioni:
++
+.. Per scaricare un PDF delle raccomandazioni, seleziona *Scarica*.
+.. Per contattare un rappresentante commerciale NetApp in merito ai consigli, seleziona *Contatta il reparto vendite*.  Una pagina web mostra le opzioni tra cui puoi scegliere per contattare un rappresentante commerciale NetApp .
+
+
+. Selezionare *Fine*.
+
+
+
+
+== Visualizza le valutazioni di aggiornamento tecnologico già effettuate
+
+Potresti voler rivedere le valutazioni di aggiornamento tecnologico che hai già effettuato e rivedere nuovamente le raccomandazioni.
+
+.Passi
+. Dal menu di navigazione a sinistra della console NetApp , seleziona *Governance* > *Pianificazione del ciclo di vita* > *Aggiornamento tecnologico*.
+. Seleziona la scheda *Candidati all'aggiornamento tecnologico*, che elenca tutti i sistemi su cui hai sostenuto una valutazione di aggiornamento tecnologico.  Quindi, dal menu Azioni sulla riga relativa a quel sistema, seleziona per visualizzare le valutazioni e le raccomandazioni per quel sistema.
+. Nella pagina Valuta opzioni di aggiornamento, seleziona *Visualizza raccomandazione*.
+. Visualizza i consigli di aggiornamento.
++
+image:tech-refresh-view-recommendations2.png["Visualizza la pagina delle raccomandazioni per la valutazione degli aggiornamenti"]
+
+
+
+
+
+== Simulare carichi di lavoro su nuovo hardware
+
+Se hai inviato i log AutoSupport a NetApp negli ultimi 90 giorni, NetApp è in grado di fornire una simulazione per vedere come si comportano i tuoi carichi di lavoro sul nuovo hardware.
+
+È possibile includere o escludere carichi di lavoro specifici dalla simulazione.  È anche possibile aggiungere carichi di lavoro se non compaiono nell'elenco dei carichi di lavoro esistenti.
+
+.Passi
+. Dal menu di navigazione a sinistra della console NetApp , seleziona *Governance* > *Pianificazione del ciclo di vita* > *Aggiornamento tecnologico*.
++
+image:tech-refresh-list2.png["Pagina di aggiornamento tecnologico che mostra la scheda Candidati per l'aggiornamento tecnologico"]
+
+. Consulta la scheda *Candidati all'aggiornamento tecnologico*, che elenca tutti i sistemi che potrebbero trarre vantaggio da un aggiornamento tecnologico.
+. Seleziona il sistema su cui vuoi ottenere una valutazione.
+. Nella colonna Azioni, seleziona *Valuta aggiornamento*.
++
+
+NOTE: la pianificazione del ciclo di vita importa i dettagli del carico di lavoro in preparazione della simulazione.
+
++
+image:tech-refresh-simulation-requirements3.png["Pagina di simulazione dei carichi di lavoro che mostra le opzioni dei requisiti"]
+
+. Nella pagina Simula carichi di lavoro > Requisiti del carico di lavoro, procedi come segue:
++
+.. Per aggiungere un carico di lavoro non ancora presente nell'elenco, selezionare *Aggiungi carico di lavoro*. Per maggiori dettagli, vedere <<Aggiungi un carico di lavoro>> .
+.. *IOPS*: Facoltativamente, modifica gli IOPS che desideri per il tuo nuovo hardware.
+.. *Capacità (TiB)*: facoltativamente, modifica la capacità desiderata per il tuo nuovo hardware.
+
+
+. Per escludere i carichi di lavoro, nella colonna Azioni, selezionare l'opzione *Escludi carico di lavoro dalla simulazione*.
++
+
+TIP: Per includere carichi di lavoro precedentemente esclusi, selezionare la scheda *Carichi di lavoro esclusi* e selezionare l'opzione *Includi carico di lavoro nella simulazione*. .. Selezionare *Avanti*.
+
+. Esaminare i risultati simulati sul nuovo hardware nella pagina Configurazione:
++
+image:tech-refresh-simulation-results2.png["Pagina di simulazione dei carichi di lavoro che mostra i risultati della simulazione"]
+
++
+
+TIP: Le raccomandazioni migliori sono contrassegnate dall'indicazione "Best".
+
+. Per scaricare un PDF delle raccomandazioni, seleziona *Scarica*.
+. Per contattare un rappresentante commerciale NetApp in merito ai consigli:
++
+.. Seleziona *Contatto*.
+.. Inserisci i dati di contatto.
+.. Aggiungere note speciali per il rappresentante commerciale NetApp .
+.. Seleziona *Conferma e invia*.
+
+
+. Selezionare *Fine*.
+
+
+.Risultato
+I suggerimenti derivanti dalla simulazione del carico di lavoro vengono inviati a un rappresentante commerciale NetApp .  Riceverai anche un'e-mail di conferma delle raccomandazioni.  Un rappresentante commerciale NetApp risponderà alla tua richiesta.
+
+
+
+== Aggiungi un carico di lavoro
+
+È possibile aggiungere alla simulazione del carico di lavoro un carico di lavoro non ancora elencato.
+
+.Passi
+. link:../get-started/capacity-login.html["Accedi alla console NetApp"] .
+. Seleziona *Aggiornamento tecnologico*.
++
+image:tech-refresh-list2.png["Pagina di aggiornamento tecnologico che mostra la scheda Candidati per l'aggiornamento tecnologico"]
+
+. Selezionare il sistema.
+. Nella colonna Azioni, seleziona *Valuta aggiornamento*.
++
+image:tech-refresh-simulation-requirements3.png["Pagina di simulazione dei carichi di lavoro che mostra le opzioni dei requisiti"]
+
+. Nella pagina Simula carichi di lavoro > Requisiti del carico di lavoro, seleziona *Aggiungi carico di lavoro*.
++
+image:tech-refresh-workload-add2.png["Aggiungi pagina del carico di lavoro"]
+
+. Selezionare l'applicazione, immettere un nome per il carico di lavoro e selezionare una dimensione per il carico di lavoro.
+. Immettere i valori previsti per la capacità e le prestazioni del carico di lavoro.
++
+
+NOTE: Se si sceglie una dimensione del carico di lavoro piccola, tipica o ad alta intensità di I/O, vengono visualizzati i valori predefiniti.
+
+. Facoltativamente, seleziona la freccia Opzioni avanzate e modifica i valori predefiniti per le seguenti informazioni:
++
+** *Efficienza di archiviazione*: un tipico rapporto di riduzione dei dati potrebbe essere di 2 a 1.
+** *Letture casuali %*: una dimensione media tipica di I/O per una lettura casuale è 16K.
+** *Letture sequenziali %*: un tipico schema di lettura è 50% casuale e 50% sequenziale.
+** *Scritture casuali %*: una dimensione media tipica di I/O per una scrittura casuale è 32K.
+** *Scritture sequenziali %*: un tipico schema di scrittura è 50% casuale e 50% sequenziale.
+
+
+

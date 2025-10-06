@@ -1,0 +1,89 @@
+---
+sidebar: sidebar 
+permalink: release-notes/whats-new.html 
+keywords: economic efficiency faq, bluexp, lifecycle planning frequently asked questions 
+summary: 'Il servizio di pianificazione del ciclo di vita NetApp identifica i cluster con capacità attuale o prevista bassa e fornisce consigli sulla suddivisione in livelli dei dati o sulla capacità aggiuntiva (per i sistemi AFF ).  Il servizio fornisce anche consigli sull"aggiornamento tecnologico dei sistemi prossimi alla fine del loro ciclo di vita.' 
+---
+= Novità nella pianificazione del ciclo di vita
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Scopri le novità nella pianificazione del ciclo di vita.
+
+
+
+== 06 ottobre 2025
+
+
+
+=== BlueXP economic efficiency è ora pianificazione del ciclo di vita
+
+BlueXP economic efficiency è stata rinominata Pianificazione del ciclo di vita.
+
+È possibile accedervi dalla barra di navigazione sinistra della console NetApp selezionando *Storage* > *Pianificazione del ciclo di vita*.
+
+
+
+=== BlueXP è ora NetApp Console
+
+NetApp Console, basata sulle fondamenta BlueXP migliorate e ristrutturate, offre una gestione centralizzata dello storage NetApp e dei NetApp Data Services in ambienti on-premise e cloud di livello aziendale, offrendo informazioni in tempo reale, flussi di lavoro più rapidi e un'amministrazione semplificata, il tutto in modo altamente sicuro e conforme.
+
+Per i dettagli su cosa è cambiato, vederelink:https://docs.netapp.com/us-en/bluexp-relnotes/index.html["Note sulla versione della console NetApp"] .
+
+
+
+== 15 maggio 2024
+
+
+
+=== Funzionalità disabilitate
+
+Alcune funzionalità BlueXP economic efficiency sono state temporaneamente disattivate:
+
+* Aggiornamento tecnologico
+* Aggiungere capacità
+
+
+
+
+== 14 marzo 2024
+
+
+
+=== Opzioni di aggiornamento tecnologico
+
+Se disponi di risorse esistenti e desideri stabilire se una tecnologia necessita di essere aggiornata, puoi utilizzare le opzioni di aggiornamento della tecnologia per l'efficienza economica BlueXP .  Puoi esaminare una breve valutazione dei tuoi carichi di lavoro attuali e ricevere consigli oppure, se hai inviato i log AutoSupport a NetApp negli ultimi 90 giorni, il servizio può ora fornire una simulazione del carico di lavoro per vedere come si comportano i tuoi carichi di lavoro sul nuovo hardware.
+
+È anche possibile aggiungere un carico di lavoro ed escludere i carichi di lavoro esistenti dalla simulazione.
+
+In precedenza, era possibile solo effettuare una valutazione delle risorse e stabilire se fosse opportuno un aggiornamento tecnologico.
+
+La funzionalità è ora parte dell'opzione Aggiornamento tecnologico nella barra di navigazione a sinistra.
+
+Scopri di più su https://docs.netapp.com/us-en/bluexp-economic-efficiency/use/tech-refresh.html["Valutare un aggiornamento tecnologico"] .
+
+
+
+== 08 novembre 2023
+
+
+
+=== Aggiornamento tecnologico
+
+Questa versione di BlueXP economic efficiency include una nuova opzione per valutare le tue risorse e stabilire se è consigliabile un aggiornamento tecnologico.  BlueXP economic efficiency include una nuova opzione di aggiornamento tecnologico nella barra di navigazione a sinistra, nuove pagine in cui è possibile valutare i carichi di lavoro e le risorse attuali e un report che fornisce consigli.
+
+
+
+== 02 aprile 2023
+
+
+
+=== Presentazione BlueXP economic efficiency
+
+La nuova BlueXP economic efficiency identifica le risorse di storage con capacità attuale o prevista bassa e fornisce consigli sulla suddivisione in livelli dei dati o sulla capacità aggiuntiva per i sistemi AFF locali.
+
+link:https://docs.netapp.com/us-en/bluexp-economic-efficiency/get-started/intro.html["Scopri di più sull'efficienza economica NetApp"] .

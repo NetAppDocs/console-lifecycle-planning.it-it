@@ -1,0 +1,59 @@
+---
+sidebar: sidebar 
+permalink: use/capacity-add.html 
+keywords: economic efficiency remediate, lifecycle planning, capacity planning, add capacity 
+summary: La pianificazione del ciclo di vita fornisce raccomandazioni per i sistemi AFF in base alla crescita prevista dei dati.  Puoi accettare la previsione oppure inserire la tua previsione.  Sulla base di ciò, la pianificazione del ciclo di vita presenta raccomandazioni che soddisfano le proiezioni di crescita della capacità e sono le più ottimali per la configurazione delle risorse. 
+---
+= Aggiungere capacità
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+La pianificazione del ciclo di vita fornisce raccomandazioni per i sistemi AFF in base alla crescita prevista dei dati.  Puoi accettare la previsione oppure inserire la tua previsione.  Sulla base di ciò, la pianificazione del ciclo di vita presenta raccomandazioni che soddisfano le proiezioni di crescita della capacità e sono le più ottimali per la configurazione delle risorse.
+
+Uno dei consigli potrebbe essere quello di aumentare la capacità aggiungendo ripiani al numero di serie esistente.
+
+Puoi facilmente inviare la raccomandazione come richiesta di preventivo o come richiesta di opzioni alternative al team di vendita NetApp .
+
+.Passi
+. link:../get-started/capacity-login.html["Accedi alla console NetApp"] .
+. Selezionare *Pianificazione della capacità*.
+. Selezionare *Valuta opzioni di archiviazione* per la risorsa.
+. Seleziona *Aggiungi capacità*.
++
+Vengono visualizzati i dati della risorsa.
+
++
+** Esaminare le previsioni, l'utilizzo, l'andamento della latenza e l'andamento degli IOPS.
+** Per ottenere consigli, seleziona *Valuta opzioni di archiviazione*.
++
+La pagina Definisci requisiti di capacità mostra una previsione di capacità attuale e prevista e lo spazio di archiviazione aggiuntivo consigliato in base alla crescita prevista.
+
+
+
+. Seleziona una delle opzioni a destra:
++
+** *Consiglia spazio di archiviazione aggiuntivo in base alla crescita prevista* e, facoltativamente, aggiungi una percentuale di buffer.
+** *Consiglia spazio di archiviazione aggiuntivo in base alla crescita personalizzata dei dati* e inserisci la capacità aggiuntiva totale desiderata, non quella consigliata.
+
+
+. Selezionare *Continua*.
++
+Viene visualizzata una serie di raccomandazioni.
+
+. Esaminare la raccomandazione per i numeri di serie delle risorse selezionate.
+. Eseguire una delle seguenti operazioni:
++
+** Per accettare la raccomandazione, seleziona *Avanti*.  La richiesta verrà inviata a un esperto di vendite NetApp che collaborerà con te per fornirti la capacità aggiuntiva di cui hai bisogno.
+** Per richiedere opzioni diverse, seleziona *Richiedi opzioni alternative*, inserisci la tua richiesta e seleziona *Invia e-mail*.  Verrà inviata un'e-mail a un esperto di vendite NetApp che ti contatterà per discutere dei requisiti di capacità.
+
+
+. Esamina la richiesta di capacità aggiuntiva e seleziona *Conferma e invia*.
++
+Viene visualizzata la pagina Stato pianificazione capacità.
+
+. Controllare lo stato nella pagina Stato della pianificazione della capacità.
+

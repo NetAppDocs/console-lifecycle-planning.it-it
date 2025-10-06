@@ -1,0 +1,44 @@
+---
+indexpage:
+  title: Documentazione di pianificazione del ciclo di vita
+  summary: La pianificazione del ciclo di vita identifica i cluster con capacità attuale
+    o prevista bassa e fornisce consigli sulla suddivisione in livelli dei dati.
+  keywords: technology refresh, tech refresh, AFF, capacity, economic efficiency,
+    bluexp, data tier, hardware end of life, lifecycle planning
+  lead: La pianificazione del ciclo di vita identifica i cluster con capacità attuale
+    o prevista bassa e fornisce consigli sulla suddivisione in livelli dei dati.
+  tiles:
+  - title: Iniziare
+    links:
+    - title: Scopri di più sulla pianificazione del ciclo di vita
+      url: "/get-started/intro.html"
+    - title: Novità nella pianificazione del ciclo di vita
+      url: "/release-notes/whats-new.html"
+    - title: Avvio rapido
+      url: "/get-started/quick-start.html"
+    - title: Prerequisiti
+      url: "/get-started/prerequisites.html"
+    - title: Accedi alla pianificazione del ciclo di vita
+      url: "/get-started/capacity-login.html"
+    - title: Domande frequenti
+      url: "/get-started/faq.html"
+  - title: Utilizzare la pianificazione del ciclo di vita
+    links:
+    - title: Esaminare e risolvere i problemi di capacità
+      url: "/use/capacity-remediate-overview.html"
+    - title: Esaminare lo stato della capacità
+      url: "/use/capacity-review-status.html"
+    - title: Aggiungere capacità
+      url: "/use/capacity-add.html"
+    - title: Livelli di dati inattivi nell'archiviazione cloud
+      url: "/use/capacity-tier-data.html"
+    - title: Imposta promemoria per controllare di nuovo
+      url: "/use/capacity-reminders.html"
+  - title: Blog e comunità
+    links:
+    - title: Console NetApp
+      url: https://www.netapp.com/console
+    - title: Servizi dati NetApp
+      url: https://www.netapp.com/data-services/
+    - title: Comunità NetApp
+      url: https://community.netapp.com

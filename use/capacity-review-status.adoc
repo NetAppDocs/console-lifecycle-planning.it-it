@@ -1,0 +1,42 @@
+---
+sidebar: sidebar 
+permalink: use/capacity-review-status.html 
+keywords: lifecycle planning remediate, lifecycle planning, capacity planning, forecast, capacity, storage, economic efficiency 
+summary: 'Se i cluster sono attualmente al di sotto o si prevede che saranno al di sotto della soglia del 70% della capacità, la pianificazione del ciclo di vita li identifica come risorse a bassa capacità e ti avvisa.' 
+---
+= Esaminare lo stato della capacità nella pianificazione del ciclo di vita
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+Se le risorse di storage nel tuo ambiente sono attualmente al di sotto o si prevede che saranno al di sotto della soglia del 90% della capacità, la pianificazione del ciclo di vita le identifica come risorse a bassa capacità e ti avvisa.  Inoltre, la pianificazione del ciclo di vita fornisce consigli sull'opportunità di suddividere i dati in livelli.
+
+È possibile esaminare i seguenti tipi di dati per facilitare la risoluzione dei problemi di capacità.
+
+* Piattaforma
+* Paese in cui si trova l'asset
+* Capacità attuale e prevista per mese
+
+
+.Passi
+. link:../get-started/capacity-login.html["Accedi alla console NetApp"] .
+. Dal menu di navigazione a sinistra, seleziona *Capacità*.
++
+image:capacity-page.png["Pagina di capacità che mostra un elenco di sistemi"]
+
+. Dalla pagina Capacità, seleziona un sistema.
++
+image:capacity-evaluate-storage-capacity.png["Pagina Capacità nella pianificazione del ciclo di vita"]
+
+. Selezionare *Valuta opzioni di archiviazione* per la risorsa.
+. Scegli una delle opzioni:
++
+** *Migliori pratiche*: Continua cliccando sul link per visualizzare le migliori pratiche.
+** *Dati freddi di livello*: Continua conlink:../use/capacity-tier-data.html["suddividere i dati inattivi nell'archiviazione cloud e liberare spazio di archiviazione"] .
+** *Nessuna azione richiesta*: Continua conlink:../use/capacity-reminders.html["selezionando nessuna azione e impostando promemoria per controllare di nuovo"] .
+
+
+

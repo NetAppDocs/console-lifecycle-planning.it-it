@@ -1,0 +1,12 @@
+---
+section: use
+title: Utilizzare la pianificazione del ciclo di vita NetApp
+entries:
+- title: Esaminare e risolvere i problemi di capacità
+  url: "/use/capacity-remediate-overview.html"
+- title: Esaminare lo stato della capacità
+  url: "/use/capacity-review-status.html"
+- title: Livelli di dati inattivi nell'archiviazione cloud
+  url: "/use/capacity-tier-data.html"
+- title: Imposta promemoria per controllare di nuovo
+  url: "/use/capacity-reminders.html"

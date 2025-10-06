@@ -1,0 +1,26 @@
+---
+sidebar: sidebar 
+permalink: use/capacity-reminders.html 
+keywords: bluexp, lifecycle planning remediate, lifecycle planning, capacity planning, set reminders for capacity, economic efficiency, capacity, tier cold, cold data 
+summary: Invece di aggiungere capacità o suddividere in livelli i dati inattivi, puoi scegliere di non richiedere alcuna azione in questo momento e impostare promemoria per controllare nuovamente dopo 30, 60 o 90 giorni. 
+---
+= Imposta promemoria per controllare nuovamente nella pianificazione del ciclo di vita
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+Invece di aggiungere capacità o dati inattivi di livello, nella pianificazione del ciclo di vita puoi scegliere di non richiedere alcuna azione in questo momento e impostare promemoria per controllare nuovamente dopo 30, 60 o 90 giorni.
+
+.Passi
+. link:../get-started/capacity-login.html["Accedi alla console NetApp"] .
+. Selezionare *Valuta opzioni di archiviazione* per la risorsa.
+. Seleziona *Nessuna azione richiesta*.
+. Scegli quando desideri essere nuovamente avvisato di un potenziale problema di bassa capacità: 30, 60 o 90 giorni.
+. Seleziona *Salva*.
+
+
+.Risultato
+Trascorso tale periodo, il rischio ricompare nell'elenco dei rischi.

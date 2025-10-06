@@ -1,0 +1,15 @@
+---
+sidebar: sidebar 
+permalink: release-notes/limitations.html 
+keywords: economic efficiency, bluexp, lifecycle planning, 
+summary: Le limitazioni note identificano piattaforme, dispositivi o funzioni che non sono supportati da questa versione del servizio o che non interagiscono correttamente con esso. 
+---
+= Limitazioni
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Le limitazioni note identificano piattaforme, dispositivi o funzioni che non sono supportati da questa versione del servizio o che non interagiscono correttamente con esso.

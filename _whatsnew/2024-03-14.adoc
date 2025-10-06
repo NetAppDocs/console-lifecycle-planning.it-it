@@ -1,0 +1,17 @@
+= Opzioni di aggiornamento tecnologico
+:allow-uri-read: 
+
+
+
+
+=== Opzioni di aggiornamento tecnologico
+
+Se disponi di risorse esistenti e desideri stabilire se una tecnologia necessita di essere aggiornata, puoi utilizzare le opzioni di aggiornamento della tecnologia per l'efficienza economica BlueXP .  Puoi esaminare una breve valutazione dei tuoi carichi di lavoro attuali e ricevere consigli oppure, se hai inviato i log AutoSupport a NetApp negli ultimi 90 giorni, il servizio può ora fornire una simulazione del carico di lavoro per vedere come si comportano i tuoi carichi di lavoro sul nuovo hardware.
+
+È anche possibile aggiungere un carico di lavoro ed escludere i carichi di lavoro esistenti dalla simulazione.
+
+In precedenza, era possibile solo effettuare una valutazione delle risorse e stabilire se fosse opportuno un aggiornamento tecnologico.
+
+La funzionalità è ora parte dell'opzione Aggiornamento tecnologico nella barra di navigazione a sinistra.
+
+Scopri di più su https://docs.netapp.com/us-en/bluexp-economic-efficiency/use/tech-refresh.html["Valutare un aggiornamento tecnologico"] .
