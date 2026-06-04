@@ -1,10 +1,10 @@
 ---
 sidebar: sidebar 
 permalink: use/tech-refresh.html 
-keywords: lifecycle planning, tech refresh, technology update, hardware assessment 
-summary: 'Se disponi di risorse esistenti e desideri effettuare una valutazione per stabilire se è consigliabile un aggiornamento tecnologico, puoi utilizzare l"opzione di aggiornamento tecnologico della pianificazione del ciclo di vita.  Il processo valuta i tuoi attuali carichi di lavoro e risorse e ti fornisce consigli su come procedere.  Oppure puoi provare una simulazione del carico di lavoro.' 
+keywords: lifecycle planning, system refresh, technology update, hardware assessment 
+summary: 'Se disponi già di risorse e desideri effettuare una valutazione per stabilire se è consigliabile un aggiornamento del sistema, puoi utilizzare l"opzione di aggiornamento del sistema di pianificazione del ciclo di vita. Il processo analizza i carichi di lavoro e le risorse attuali e fornisce raccomandazioni su come procedere. In alternativa, puoi provare una simulazione del carico di lavoro.' 
 ---
-= Valutare un aggiornamento tecnologico utilizzando la pianificazione del ciclo di vita
+= Valutare un aggiornamento del sistema utilizzando la pianificazione del ciclo di vita
 :hardbreaks:
 :allow-uri-read: 
 :icons: font
@@ -12,13 +12,13 @@ summary: 'Se disponi di risorse esistenti e desideri effettuare una valutazione 
 
 
 [role="lead"]
-Se disponi di risorse esistenti e desideri stabilire se è consigliabile un aggiornamento tecnologico, puoi utilizzare le opzioni di aggiornamento tecnologico della pianificazione del ciclo di vita.  Puoi esaminare una breve valutazione dei tuoi carichi di lavoro attuali e ricevere consigli oppure, se hai inviato i registri AutoSupport a NetApp negli ultimi 90 giorni, il servizio può fornire una simulazione del carico di lavoro per vedere come si comportano i tuoi carichi di lavoro sul nuovo hardware.
+Se disponi di risorse esistenti e desideri valutare se è consigliabile un aggiornamento del sistema, puoi utilizzare le opzioni di aggiornamento del sistema di pianificazione del ciclo di vita. Puoi esaminare una breve valutazione dei tuoi carichi di lavoro attuali e ricevere raccomandazioni, oppure, se hai inviato i log AutoSupport a NetApp negli ultimi 90 giorni, il servizio può fornire una simulazione del carico di lavoro per vedere come si comportano i tuoi carichi di lavoro sul nuovo hardware.
 
 * <<Fai una valutazione di aggiornamento>>
 * <<Simulare carichi di lavoro su nuovo hardware>>
 
 
-I sistemi sono considerati candidati per un aggiornamento tecnologico in base a quanto segue:
+I sistemi vengono considerati candidati per un aggiornamento in base ai seguenti criteri:
 
 * Avvicinandosi alla fine del contratto di supporto tecnico
 * Avvicinandosi alla fine del ciclo di vita dell'hardware
@@ -40,22 +40,22 @@ La valutazione comprende i seguenti passaggi:
 
 .Passi
 . link:../get-started/capacity-login.html["Accedi alla NetApp Console"] .
-. Seleziona *Aggiornamento tecnologico*.
+. Seleziona *Aggiornamento del sistema*.
 +
-image:tech-refresh.png["Pagina di aggiornamento tecnologico che mostra i candidati all'aggiornamento tecnologico"]
+image:tech-refresh.png["Pagina di aggiornamento del sistema che mostra i candidati per l'aggiornamento del sistema"]
 
-. Consulta la scheda *Candidati all'aggiornamento tecnologico*, che elenca tutti i sistemi che potrebbero trarre vantaggio da un aggiornamento tecnologico.
+. Consulta la scheda *Candidati per l'aggiornamento del sistema*, che elenca tutti i sistemi che potrebbero trarre vantaggio da un aggiornamento del sistema.
 . Seleziona il sistema su cui vuoi ottenere una valutazione.
 . Dalla colonna Azioni, seleziona *Valuta aggiornamento*.
 +
-image:tech-refresh-systems.png["Sistemi da includere nell'aggiornamento tecnologico"]
+image:tech-refresh-systems.png["Sistemi da includere nell'aggiornamento del sistema"]
 
 . Selezionare il sistema o i sistemi su cui si desidera eseguire la valutazione e selezionare *Avanti*.
 . Definire i requisiti:
 +
 .. *Ambienti*: seleziona i tipi di ambiente desiderati: cloud pubblico, cloud ibrido o on-premise.
 +
-image:tech-refresh-requirements-environments4.png["Pagina dei requisiti di aggiornamento tecnologico che mostra le scelte ambientali"]
+image:tech-refresh-requirements-environments4.png["Pagina dei requisiti di aggiornamento del sistema che mostra le scelte dell'ambiente"]
 
 .. *Carichi di lavoro*: seleziona tutti i tipi di carichi di lavoro che desideri gestire: applicazioni aziendali critiche, analisi e calcolo ad alte prestazioni, data lake e flussi di lavoro multimediali, storage secondario o carichi di lavoro meno critici.
 +
@@ -87,13 +87,13 @@ image:tech-refresh-view-recommendations2.png["Visualizza la pagina delle raccoma
 
 
 
-== Visualizza le valutazioni di aggiornamento tecnologico già effettuate
+== Visualizza le valutazioni di aggiornamento del sistema già effettuate
 
-Potresti voler rivedere le valutazioni di aggiornamento tecnologico che hai già effettuato e rivedere nuovamente le raccomandazioni.
+È possibile rivedere le valutazioni di aggiornamento del sistema già effettuate e rileggere i relativi consigli.
 
 .Passi
-. Dal menu di navigazione a sinistra NetApp Console , seleziona *Governance* > *Pianificazione del ciclo di vita* > *Aggiornamento tecnologico*.
-. Seleziona la scheda *Candidati all'aggiornamento tecnologico*, che elenca tutti i sistemi su cui hai sostenuto una valutazione di aggiornamento tecnologico.  Quindi, dal menu Azioni sulla riga relativa a quel sistema, seleziona per visualizzare le valutazioni e le raccomandazioni per quel sistema.
+. Dal menu di navigazione a sinistra della NetApp Console, selezionare *Archiviazione* > *Pianificazione del ciclo di vita* > *Aggiornamento del sistema*.
+. Seleziona la scheda *Candidati all'aggiornamento del sistema*, che elenca tutti i sistemi per i quali hai eseguito una valutazione di aggiornamento. Quindi, dal menu Azioni sulla riga corrispondente a quel sistema, seleziona l'opzione per visualizzare le valutazioni e i consigli relativi a quel sistema.
 . Nella pagina Valuta opzioni di aggiornamento, seleziona *Visualizza raccomandazione*.
 . Visualizza i consigli di aggiornamento.
 +
@@ -110,11 +110,11 @@ Se hai inviato i log AutoSupport a NetApp negli ultimi 90 giorni, NetApp è in g
 È possibile includere o escludere carichi di lavoro specifici dalla simulazione.  È anche possibile aggiungere carichi di lavoro se non compaiono nell'elenco dei carichi di lavoro esistenti.
 
 .Passi
-. Dal menu di navigazione a sinistra NetApp Console , seleziona *Governance* > *Pianificazione del ciclo di vita* > *Aggiornamento tecnologico*.
+. Dal menu di navigazione a sinistra della NetApp Console, selezionare *Governance* > *Pianificazione del ciclo di vita* > *Aggiornamento del sistema*.
 +
-image:tech-refresh-list2.png["Pagina di aggiornamento tecnologico che mostra la scheda Candidati per l'aggiornamento tecnologico"]
+image:tech-refresh-list2.png["Pagina di aggiornamento del sistema che mostra la scheda dei candidati all'aggiornamento del sistema"]
 
-. Consulta la scheda *Candidati all'aggiornamento tecnologico*, che elenca tutti i sistemi che potrebbero trarre vantaggio da un aggiornamento tecnologico.
+. Consulta la scheda *Candidati per l'aggiornamento del sistema*, che elenca tutti i sistemi che potrebbero trarre vantaggio da un aggiornamento del sistema.
 . Seleziona il sistema su cui vuoi ottenere una valutazione.
 . Nella colonna Azioni, seleziona *Valuta aggiornamento*.
 +
@@ -167,9 +167,9 @@ I suggerimenti derivanti dalla simulazione del carico di lavoro vengono inviati 
 
 .Passi
 . link:../get-started/capacity-login.html["Accedi alla NetApp Console"] .
-. Seleziona *Aggiornamento tecnologico*.
+. Seleziona *Aggiornamento del sistema*.
 +
-image:tech-refresh-list2.png["Pagina di aggiornamento tecnologico che mostra la scheda Candidati per l'aggiornamento tecnologico"]
+image:tech-refresh-list2.png["Pagina di aggiornamento del sistema che mostra la scheda dei candidati all'aggiornamento del sistema"]
 
 . Selezionare il sistema.
 . Nella colonna Azioni, seleziona *Valuta aggiornamento*.

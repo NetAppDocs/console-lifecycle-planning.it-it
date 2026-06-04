@@ -19,7 +19,7 @@ Per utilizzare la pianificazione del ciclo di vita, è necessario eseguire alcun
 * Scopri il cluster nella Console.
 
 
-È possibile creare un agente Console direttamente nella Console e utilizzare tale agente in un secondo momento BlueXP economic efficiency.  In alternativa, è possibile creare l'agente Console durante il processo di ripristino della capacità.
+È possibile creare un agente Console direttamente nella Console e utilizzarlo in seguito nella pianificazione del ciclo di vita. In alternativa, è possibile creare l'agente Console durante il processo di remediation della capacità.
 
 Allo stesso modo, è possibile scoprire il cluster in anticipo utilizzando la Console o durante il processo di ripristino della capacità.
 

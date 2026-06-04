@@ -24,7 +24,6 @@
   <block id="4409dcaa0e2404a16a923cd466b13496" category="paragraph">Per accedere alla pianificazione del ciclo di vita, è possibile utilizzare la NetApp Console .</block>
   <block id="8e917942a77709dfd28c155f42a97553" category="inline-link">Scopri di più sull'accesso</block>
   <block id="4c992a0884fb27bf6e258aeeb9186bc9" category="paragraph">Per accedere alla Console, puoi utilizzare le credenziali del sito di supporto NetApp .<block ref="192dac3a1352f6134fa7409c0b073570" category="inline-link-rx"></block> .</block>
-  <block id="cc07f1abe65c2e4c2c4159ab1c15fe91" category="admonition">È possibile accedere a questa funzionalità tramite la NetApp Console (*Storage* &gt; *Pianificazione del ciclo di vita*) o tramite Digital Advisor (*Dashboard* &gt; *Widget di pianificazione* &gt; *Aggiornamento tecnologico*).</block>
   <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">Passi</block>
   <block id="982bd3899a5d1f111ad06bb73841bc70" category="inline-link">la NetApp Console</block>
   <block id="352cce5842856ce34ce1f525ea3f3063" category="list-text">Apri un browser web e vai su<block ref="d6a8357fd9eebcdff3de02435d957676" category="inline-link-rx"></block> .</block>
@@ -37,7 +36,6 @@
   <block id="4e19bf2e9b4ac5a922a2178855496f5f" category="list-text">Revisione<block ref="7009d9e779d272896f977d5e53a42299" category="inline-link-macro-rx"></block> per garantire che il tuo sistema sia pronto.</block>
   <block id="213689e3824c3842ee1cdb3ae49b0131" category="list-text">Creare un agente Console nella NetApp Console.</block>
   <block id="0e3747332782db47a3f7f6a39bcc758d" category="list-text">Scopri il cluster nella Console.</block>
-  <block id="80526f97f09af6a5d20818ce9d1aa659" category="paragraph">È possibile creare un agente Console direttamente nella Console e utilizzare tale agente in un secondo momento BlueXP economic efficiency.  In alternativa, è possibile creare l'agente Console durante il processo di ripristino della capacità.</block>
   <block id="5eaec4ed71699a5bb43c22a5010be7d9" category="paragraph">Allo stesso modo, è possibile scoprire il cluster in anticipo utilizzando la Console o durante il processo di ripristino della capacità.</block>
   <block id="01f52dd5b9c3fcf42a482c9c21f24432" category="section-title">Creare un agente Console nella NetApp Console</block>
   <block id="80f2ac90e12391c4af73ba72a4582586" category="paragraph">Un agente NetApp Console include le credenziali per le macchine NetApp ONTAP .</block>
@@ -60,7 +58,6 @@
   <block id="5f2ba40ecab933bbf8f2c6806901fc08" category="paragraph">Non è richiesto un file di licenza NetApp (NLF).</block>
   <block id="b4d4f6b8330b6463316818057edebd1d" category="summary">La pianificazione del ciclo di vita NetApp identifica i cluster con capacità attuale o prevista bassa e fornisce raccomandazioni sulla suddivisione in livelli dei dati.</block>
   <block id="738bddffaf8c953ead58e77594d61e27" category="doc">Scopri di più sulla pianificazione del ciclo di vita</block>
-  <block id="ed3d51b267614016e45d189f489c77f6" category="paragraph">La pianificazione del ciclo di vita valuta le risorse di storage con capacità attuale o prevista bassa e fornisce consigli sulle opzioni di suddivisione in livelli dei dati che soddisfano le esigenze aziendali.</block>
   <block id="3c031b939f6ec312ee601d021e7a6644" category="section-title">NetApp Console</block>
   <block id="7c776c6aa9835fda1b29b4771c2638e8" category="paragraph">La pianificazione del ciclo di vita è accessibile tramite la NetApp Console.</block>
   <block id="0a0979a6d279475a420ea5c279943daa" category="paragraph">NetApp Console offre una gestione centralizzata dei servizi di storage e dati NetApp in ambienti on-premise e cloud di livello aziendale. La console è necessaria per accedere e utilizzare i servizi dati NetApp . In quanto interfaccia di gestione, consente di gestire numerose risorse di archiviazione da un'unica interfaccia. Gli amministratori della console possono controllare l'accesso allo storage e ai servizi per tutti i sistemi all'interno dell'azienda.</block>
@@ -73,14 +70,12 @@
   <block id="f0a161f3ab72e29c18f1f08d5d13b96c" category="list-text">Esaminare le risorse per verificarne la capacità attuale e prevista.</block>
   <block id="3a5156e2b110b01f0232d7d1c0315f1b" category="section-title">Vantaggi della pianificazione del ciclo di vita</block>
   <block id="833f6dc2fb23df68f7359d32c726551e" category="paragraph">La pianificazione del ciclo di vita offre i seguenti vantaggi:</block>
-  <block id="9e352447a1c5e46200808eb84d9a862a" category="list-text">Identifica i sistemi che si stanno avvicinando a eventi del ciclo di vita per aiutarti a pianificare un aggiornamento tecnologico</block>
   <block id="f9b5dc1a48c8d1f1da2b13f28761e9a9" category="list-text">Offre i consigli di un consulente di fiducia per affrontare i problemi di capacità nel tuo ambiente</block>
   <block id="757f36865bb189e37e6988545be631ca" category="list-text">Riduce il tempo impiegato nella pianificazione di spazio di archiviazione aggiuntivo</block>
   <block id="20b4f77bd00b4f63a49ec8e08f3bf6a6" category="section-title">Costo</block>
   <block id="17e75fb73776766e7311c3e085d274f5" category="paragraph">NetApp non addebita alcun costo per l'utilizzo della pianificazione del ciclo di vita.</block>
   <block id="e7d9dc0e5ecd2442c7c315db9ddb0fa8" category="paragraph">Se decidi di archiviare i dati inattivi su cloud, dovrai verificare con il tuo provider cloud i costi applicabili.</block>
   <block id="bf733d8a933c1601697f364223fc7ecb" category="section-title">Accesso</block>
-  <block id="3e4fb4563dc82adcd4bd48b88acabacd" category="paragraph">È possibile accedere a questa funzionalità tramite la NetApp Console (*Storage* &gt; *Pianificazione del ciclo di vita*) o tramite Active IQ Digital Advisor (noto anche come Digital Advisor) (*Dashboard* &gt; *Widget di pianificazione* &gt; *Aggiornamento tecnologico*).</block>
   <block id="6ee44a97c3bde1b4b443da63f561e127" category="summary">Inizia a pianificare il ciclo di vita NetApp verificando il supporto per il tuo ambiente, l'accesso alla rete, l'accesso e il browser web.</block>
   <block id="ce9492140ce6fd831d4d5870b1489b8d" category="doc">Prerequisiti per la pianificazione del ciclo di vita</block>
   <block id="9cf3ad8527c1bb0512c1cae3ba255528" category="paragraph">Inizia con la pianificazione del ciclo di vita verificando la prontezza del tuo ambiente operativo, dell'accesso e dell'accesso alla rete.  Per utilizzare la pianificazione del ciclo di vita, è necessario assicurarsi che l'ambiente soddisfi tutti i requisiti.</block>
@@ -130,8 +125,6 @@
   <block id="c0227cef6f07a8cd2ac72f2945b031aa" category="section-title">Open source</block>
   <block id="9b73989307c1975dfa4d5e1581e4afe8" category="paragraph">I file di avviso forniscono informazioni sui diritti d'autore e sulle licenze di terze parti utilizzati nel software NetApp .</block>
   <block id="84fa68bdcea2ad5e54b20ac851705b19" category="summary">Le limitazioni note identificano piattaforme, dispositivi o funzioni che non sono supportati da questa versione del servizio o che non interagiscono correttamente con esso.</block>
-  <block id="e646e16bee8b32e6ea29e30d01970a6c" category="doc">Limitazioni</block>
-  <block id="b7ec1b0922b218fd6c319d32a6bec93d" category="summary">Il servizio di pianificazione del ciclo di vita NetApp identifica i cluster con capacità attuale o prevista bassa e fornisce consigli sulla suddivisione in livelli dei dati o sulla capacità aggiuntiva (per i sistemi AFF ).  Il servizio fornisce anche consigli sull'aggiornamento tecnologico dei sistemi prossimi alla fine del loro ciclo di vita.</block>
   <block id="46cb02d5628c6067e8b293e526b9b4a7" category="doc">Novità nella pianificazione del ciclo di vita</block>
   <block id="b6a3c0ab2923358ede3a440002e30423" category="paragraph">Scopri le novità nella pianificazione del ciclo di vita.</block>
   <block id="a41dd7aa7d921f9f0881a705d3679e6c" category="section-title">06 ottobre 2025</block>
@@ -145,39 +138,24 @@
   <block id="39bcc3e1a68b1461b9667a7690558d58" category="paragraph"><block ref="4c8264ea035faba87439d59337882b10" category="inline-link-macro-rx"></block> .</block>
   <block id="e48486c33f71dc8e173adb6c6fc66485" category="summary">NetApp fornisce supporto per NetApp Console in vari modi. Sono disponibili ampie opzioni di auto-assistenza gratuite 24 ore su 24, 7 giorni su 7, come articoli della knowledge base (KB) e un forum della community. La registrazione al supporto include supporto tecnico remoto tramite ticket web.</block>
   <block id="fabfc25ef8996fd90836e58a4c0b26b6" category="doc">Ottieni aiuto</block>
-  <block id="bbbc9b55f08bfe80f146b5207bdb7728" category="paragraph">NetApp fornisce supporto per BlueXP e i suoi servizi cloud in diversi modi. Sono disponibili ampie opzioni di supporto autonomo gratuite 24 ore su 24, 7 giorni su 7, come articoli della knowledge base (KB) e un forum della community. La registrazione al supporto include supporto tecnico remoto tramite ticket web.</block>
   <block id="522cbb900314aeb84eb5a961c5f94672" category="section-title">Ottieni supporto per un servizio file di un provider cloud</block>
-  <block id="f6185bb12f5e53c800be8cda7fbca65b" category="paragraph">Per assistenza tecnica relativa a un servizio file di un provider cloud, alla sua infrastruttura o a qualsiasi soluzione che utilizzi il servizio, fare riferimento alla sezione "Ottenere assistenza" nella documentazione BlueXP per quel prodotto.</block>
   <block id="18cf072964a583150dd247485ba75b92" category="inline-link-macro">Amazon FSx per ONTAP</block>
-  <block id="9d06990508d25d367d9158c6558eb9c8" category="list-text"><block ref="9d06990508d25d367d9158c6558eb9c8" category="inline-link-macro-rx"></block></block>
   <block id="7450cfde7058dc5e1f7909d0280fd7ae" category="inline-link-macro">Azure NetApp Files</block>
-  <block id="2e0c742f4616eb27b5b7646aa790edfe" category="list-text"><block ref="2e0c742f4616eb27b5b7646aa790edfe" category="inline-link-macro-rx"></block></block>
   <block id="1215f8190533dfdf63d2224a6d88266f" category="inline-link-macro">Google Cloud NetApp Volumes</block>
-  <block id="cb4bf32603c89d08cad17e7e7dd302f2" category="list-text"><block ref="cb4bf32603c89d08cad17e7e7dd302f2" category="inline-link-macro-rx"></block></block>
-  <block id="3880ae5df9fdc4d0fc4a6d00a2239530" category="paragraph">Per ricevere supporto tecnico specifico per BlueXP e le sue soluzioni e servizi di archiviazione, utilizzare le opzioni di supporto descritte di seguito.</block>
   <block id="edd15fbeb7b2dffa163336ecd4f3e80c" category="section-title">Utilizzare opzioni di auto-supporto</block>
   <block id="5e4b821a1a82558dead1ef6961e90666" category="paragraph">Queste opzioni sono disponibili gratuitamente, 24 ore al giorno, 7 giorni alla settimana:</block>
   <block id="5b6cf869265c13af8566f192b4ab3d2a" category="list-text">Documentazione</block>
-  <block id="a4a6c2ea0078252eac2d74ef3e6c917c" category="paragraph">La documentazione BlueXP che stai visualizzando attualmente.</block>
   <block id="19111351b69b6b15668130b38b7f6038" category="inline-link">Base di conoscenza</block>
   <block id="942c9249796cf6b78c981ebf15195809" category="list-text"><block ref="942c9249796cf6b78c981ebf15195809" category="inline-link-rx"></block></block>
-  <block id="9a3db1abe5491d0eb9bb5d125981356c" category="paragraph">Cerca nella knowledge base BlueXP per trovare articoli utili per la risoluzione dei problemi.</block>
   <block id="14526abd8bda5af347775025cd5342cf" category="inline-link">Comunità</block>
   <block id="410fdb9caa9c64da2ff3f88f4836960d" category="list-text"><block ref="410fdb9caa9c64da2ff3f88f4836960d" category="inline-link-rx"></block></block>
-  <block id="00c5fef3bb9d593ae96bf5d2ee60354a" category="paragraph">Unisciti alla community BlueXP per seguire le discussioni in corso o crearne di nuove.</block>
   <block id="d88bacf2a9fdcbbc844edcba97c34e30" category="section-title">Crea un caso con il supporto NetApp</block>
   <block id="82812db645b6ff5e9c2a24ddfb66c8d6" category="paragraph">Oltre alle opzioni di supporto autonomo sopra descritte, puoi collaborare con uno specialista del supporto NetApp per risolvere eventuali problemi dopo aver attivato il supporto.</block>
   <block id="8fece025a1a8fef7018449bf104a2527" category="list-title">Prima di iniziare</block>
-  <block id="920fe1428c19533eda6222fe7e58efbe" category="inline-link">Scopri come gestire le credenziali associate al tuo accesso BlueXP</block>
-  <block id="e1d2e1a634647fd631081bc4f6f8e523" category="list-text">Per utilizzare la funzionalità *Crea un caso*, devi prima associare le credenziali del sito di supporto NetApp al tuo accesso BlueXP .<block ref="2a0d8b66ca9e99d023b48cf25f40fb12" category="inline-link-rx"></block> .</block>
   <block id="e49aa971c20ec071f1b5bbc3c7266769" category="list-text">Se stai aprendo un caso per un sistema ONTAP che ha un numero di serie, il tuo account NSS deve essere associato al numero di serie di quel sistema.</block>
-  <block id="7fe6981833e8fe7fd89e0a99a55573da" category="list-text">In BlueXP, seleziona *Aiuto &gt; Supporto*.</block>
   <block id="08d96fdd1a845d80db99e6e1dffb8bc7" category="list-text">Nella pagina *Risorse*, seleziona una delle opzioni disponibili in Supporto tecnico:</block>
   <block id="6a1b74969231967ed071d465206b15c7" category="list-text">Seleziona *Chiamaci* se desideri parlare con qualcuno al telefono. Verrai indirizzato a una pagina su netapp.com in cui sono elencati i numeri di telefono che puoi chiamare.</block>
   <block id="d65a2a6fc9caad1867728d4382eeb989" category="list-text">Seleziona *Crea un caso* per aprire un ticket con uno specialista del supporto NetApp :</block>
-  <block id="d63bf50426f4c712554faec55b30c548" category="list-text">*Servizio*: seleziona il servizio a cui è associato il problema. Ad esempio, BlueXP quando è specifico di un problema di supporto tecnico con flussi di lavoro o funzionalità all'interno del servizio.</block>
-  <block id="2e50c5f85523f0aba9ff2db10f18279c" category="list-text">*Ambiente di lavoro*: se applicabile all'archiviazione, selezionare * Cloud Volumes ONTAP* o *On-Prem* e quindi l'ambiente di lavoro associato.</block>
-  <block id="98d90e398fc56688ddc647e5f49075ec" category="paragraph">L'elenco degli ambienti di lavoro rientra nell'ambito dell'organizzazione (o account), del progetto (o area di lavoro) e del connettore BlueXP selezionati nel banner superiore del servizio.</block>
   <block id="e6f29fb3c7636dc0040600dd0e84bb79" category="list-text">*Priorità del caso*: scegli la priorità del caso, che può essere Bassa, Media, Alta o Critica.</block>
   <block id="835eb4008e97c2a7f69bbb2725285e34" category="paragraph">Per saperne di più su queste priorità, passa il mouse sull'icona informativa accanto al nome del campo.</block>
   <block id="0f7d9319c95a8be1492e74601c4b3259" category="list-text">*Descrizione del problema*: fornisci una descrizione dettagliata del problema, inclusi eventuali messaggi di errore o passaggi per la risoluzione dei problemi eseguiti.</block>
@@ -185,18 +163,12 @@
   <block id="c7f5c1a75acc58c6f004efc0ce1eba09" category="list-text">*Allegato (facoltativo)*: carica fino a cinque allegati, uno alla volta.</block>
   <block id="bfa80e7aaad6da353b431bff3a0e12d6" category="paragraph">Gli allegati sono limitati a 25 MB per file. Sono supportate le seguenti estensioni di file: txt, log, pdf, jpg/jpeg, rtf, doc/docx, xls/xlsx e csv.</block>
   <block id="baaf0e61add7d12cf8d12e023d5aef18" category="inline-image-macro">Uno screenshot del modulo Crea un caso che consente di creare un caso con il supporto NetApp .</block>
-  <block id="509259be6d5e15d8959f705cbe0cbcc1" category="paragraph"><block ref="509259be6d5e15d8959f705cbe0cbcc1" category="inline-image-macro-rx" type="image"></block></block>
   <block id="bd965e38a0c9cf27aa1bde099308e23f" category="paragraph-title">Dopo aver finito</block>
   <block id="18f487556417bb6d9721a7005ae097c9" category="paragraph">Apparirà una finestra pop-up con il numero del tuo caso di supporto. Uno specialista del supporto NetApp esaminerà il tuo caso e ti contatterà al più presto.</block>
   <block id="0ff9b4b8684b9e03c9c1e1320935eae3" category="paragraph">Per una cronologia dei tuoi casi di supporto, puoi selezionare *Impostazioni &gt; Cronologia* e cercare le azioni denominate "crea caso di supporto". Un pulsante all'estrema destra consente di espandere l'azione per visualizzarne i dettagli.</block>
   <block id="5c56753585e89a84941bb3a78bc681af" category="paragraph">È possibile che venga visualizzato il seguente messaggio di errore quando si tenta di creare un caso:</block>
   <block id="a30f69ab0ec85d427a3e8835713525bd" category="paragraph">"Non sei autorizzato a creare un caso contro il servizio selezionato"</block>
-  <block id="c7b7a5ae9f37fd7d24e4d641b9186fe9" category="paragraph">Questo errore potrebbe significare che l'account NSS e la società registrata a cui è associato non sono la stessa società registrata per il numero di serie dell'account BlueXP (ad esempio 960xxxx) o il numero di serie dell'ambiente di lavoro. Puoi richiedere assistenza utilizzando una delle seguenti opzioni:</block>
-  <block id="e01df0b4dfd95eba2c59333419e4fac6" category="list-text">Utilizza la chat interna al prodotto</block>
   <block id="639be990cfca56ab4b63685d8bacd437" category="list-text">Invia un caso non tecnico a<block ref="2298f47e4dad19a3156da7ce6116d9b1" category="inline-link-rx"></block></block>
-  <block id="898e35e1a4bf4b025c3edec879439b08" category="section-title">Gestisci i tuoi casi di supporto (anteprima)</block>
-  <block id="8b74b053fbeeff5c3b6f4991cb1d028d" category="paragraph">Puoi visualizzare e gestire i casi di supporto attivi e risolti direttamente da BlueXP. Puoi gestire i casi associati al tuo account NSS e alla tua azienda.</block>
-  <block id="394ef093ad3259b9ff0fe7406f015b83" category="paragraph">La gestione dei casi è disponibile in anteprima. Abbiamo intenzione di perfezionare questa esperienza e aggiungere miglioramenti nelle prossime versioni. Inviaci il tuo feedback tramite la chat interna al prodotto.</block>
   <block id="cf3a2d2c139bf5c9cc87fe714bfff3b1" category="paragraph">Notare quanto segue:</block>
   <block id="5e4e7672ec2ba2b8a763da7f6714e212" category="list-text">La dashboard di gestione dei casi nella parte superiore della pagina offre due visualizzazioni:</block>
   <block id="01c3ffea552d74a5ae390b10e71a1f26" category="list-text">La vista a sinistra mostra il totale dei casi aperti negli ultimi 3 mesi dall'account NSS utente fornito.</block>
@@ -205,27 +177,15 @@
   <block id="56dcadeee6b0e5c47a52673f9b5a0bb3" category="list-text">È possibile aggiungere o rimuovere colonne di interesse e filtrare il contenuto di colonne come Priorità e Stato. Altre colonne forniscono solo funzionalità di ordinamento.</block>
   <block id="6f936762e1223311f031685422fcd3a4" category="paragraph">Per maggiori dettagli, vedere i passaggi riportati di seguito.</block>
   <block id="b14929795a61440e9b4ec9f8a4885ae3" category="list-text">A livello di singolo caso, offriamo la possibilità di aggiornare le note del caso o di chiudere un caso che non sia già nello stato Chiuso o In attesa di chiusura.</block>
-  <block id="0a4050ac39772e9281a9aba225254bf8" category="list-text">Seleziona *Gestione casi* e, se richiesto, aggiungi il tuo account NSS a BlueXP.</block>
-  <block id="d8ce1865cf1fe3cffd60300b4b86ad63" category="paragraph">La pagina *Gestione casi* mostra i casi aperti relativi all'account NSS associato al tuo account utente BlueXP . Si tratta dello stesso account NSS che appare in cima alla pagina *Gestione NSS*.</block>
   <block id="2ae5ae78bdb2d222f15fd8e89248709c" category="list-text">Facoltativamente, modifica le informazioni visualizzate nella tabella:</block>
   <block id="1d39d3ab518e1e3f16cbafb2a56e1fd9" category="list-text">In *Casi dell'organizzazione*, seleziona *Visualizza* per visualizzare tutti i casi associati alla tua azienda.</block>
   <block id="059e856250b59be3069246887b74a23c" category="list-text">Modifica l'intervallo di date scegliendo un intervallo di date esatto o un intervallo di tempo diverso.</block>
-  <block id="dfb3764bce2548df4e06357403f9c7d0" category="inline-image-macro">Uno screenshot dell'opzione sopra la tabella nella pagina Gestione casi che consente di scegliere un intervallo di date esatto oppure gli ultimi 7 giorni, 30 giorni o 3 mesi.</block>
-  <block id="0972db30d942fdb65d1732e6e84bde99" category="paragraph"><block ref="0972db30d942fdb65d1732e6e84bde99" category="inline-image-macro-rx" type="image"></block></block>
   <block id="a1bb576be9e5a356290f231efb51b3f5" category="list-text">Filtra il contenuto delle colonne.</block>
-  <block id="3753f10a59e21f58b30e3e67d416453e" category="inline-image-macro">Uno screenshot dell'opzione filtro nella colonna Stato che consente di filtrare i casi che corrispondono a uno stato specifico, ad esempio Attivo o Chiuso.</block>
-  <block id="cb6a777dd3c6e43b0dc441d38519d219" category="paragraph"><block ref="cb6a777dd3c6e43b0dc441d38519d219" category="inline-image-macro-rx" type="image"></block></block>
   <block id="1c6ea5ef583389e18e7d7bda70beaa71" category="inline-image-macro">L'icona più che appare nella tabella</block>
-  <block id="cdf14d2156528231a5dbd12ad5c95d3f" category="list-text">Modifica le colonne che appaiono nella tabella selezionando<block ref="b574dd55d604ddb721d869a0fc302007" category="inline-image-macro-rx" type="image"></block> e quindi scegli le colonne che desideri visualizzare.</block>
-  <block id="370b44009f1b82d0b6b178bb80cc62fa" category="inline-image-macro">Uno screenshot che mostra le colonne che puoi visualizzare nella tabella.</block>
-  <block id="e65065c4fd326b9f3a1eeb9453c30d73" category="paragraph"><block ref="e65065c4fd326b9f3a1eeb9453c30d73" category="inline-image-macro-rx" type="image"></block></block>
   <block id="ad0ae9ea1f2e8d973a9a0f6bb169f494" category="inline-image-macro">Un'icona con tre punti che appare nell'ultima colonna della tabella</block>
-  <block id="348552521b849746260fe8d296d34c15" category="list-text">Gestisci un caso esistente selezionando<block ref="566c029d89e7d5421080767a37bf443e" category="inline-image-macro-rx" type="image"></block> e selezionando una delle opzioni disponibili:</block>
   <block id="6d9dd74e7709ef802d299966f7898f6b" category="list-text">*Visualizza caso*: visualizza i dettagli completi su un caso specifico.</block>
   <block id="8e6b52a532a4fbbfc98dca3ebfa5f1e6" category="list-text">*Aggiorna note sul caso*: fornisci ulteriori dettagli sul tuo problema o seleziona *Carica file* per allegare fino a un massimo di cinque file.</block>
   <block id="bb6d5d351525342dd6b3cf4d15b6f298" category="list-text">*Chiudi caso*: fornisci i dettagli sul motivo per cui stai chiudendo il caso e seleziona *Chiudi caso*.</block>
-  <block id="e93217b2f709a398ce3c0fb753beb05f" category="inline-image-macro">Uno screenshot che mostra le azioni che è possibile intraprendere dopo aver selezionato il menu nell'ultima colonna della tabella.</block>
-  <block id="2ea260929e27ffcb623c8aa35689bd18" category="paragraph"><block ref="2ea260929e27ffcb623c8aa35689bd18" category="inline-image-macro-rx" type="image"></block></block>
   <block id="6269943bbab503c57445a47b04897eaa" category="summary">Prima di poter aprire un caso di supporto con il supporto tecnico NetApp , è necessario aggiungere un account NetApp Support Site alla NetApp Console e quindi registrarsi per ricevere supporto.</block>
   <block id="42748df9eaa0be17ddc5cc1593cf57ab" category="doc">Registrati per ricevere supporto</block>
   <block id="0b0e252af8897fbe981ec6682d2aa33b" category="section-title">Panoramica della registrazione del supporto</block>
@@ -241,9 +201,7 @@
   <block id="e9b1f53d6cabb3394833a4e102eb6a69" category="section-title">Novità assoluta per NetApp</block>
   <block id="c20c107d0d4eef6351660f3590324232" category="paragraph">Se sei un nuovo utente NetApp e non hai un account NSS, segui i passaggi indicati di seguito.</block>
   <block id="b50f0a46135bcb7083b1f2f82032fc26" category="inline-image-macro">Uno screenshot del menu Aiuto in cui Supporto è la prima opzione elencata</block>
-  <block id="e8d4092baef6680c6a35d5228ae31de2" category="paragraph"><block ref="e8d4092baef6680c6a35d5228ae31de2" category="inline-image-macro-rx" type="image"></block></block>
   <block id="2974170a8b1b5b4a2ac69aacd4c1c9c3" category="list-text">Individua il numero di serie del tuo ID account nella pagina di registrazione del supporto.</block>
-  <block id="379f9cd57d97013f3f7fdd24f692a0b1" category="paragraph"><block ref="379f9cd57d97013f3f7fdd24f692a0b1" category="inline-image-macro-rx" type="image"></block></block>
   <block id="dd50e314c18933734174c1156dd9237f" category="inline-link">Sito di registrazione del supporto NetApp</block>
   <block id="78f94e749b89d69dcbf3baff21ccb958" category="list-text">Vai a<block ref="e1c4be66250fd76d5c52bfe2cb7daee2" category="inline-link-rx"></block> e seleziona *Non sono un cliente NetApp registrato*.</block>
   <block id="d4f633ef130727b2776fa7f45024ca7d" category="list-text">Compila i campi obbligatori (quelli contrassegnati da asterischi rossi).</block>
@@ -271,18 +229,14 @@
   <block id="a04a3a5322782e8c18d0d64be7e1ccbc" category="paragraph">Lo stesso vale se si dispone di account NSS preesistenti a livello di cliente e si tenta di aggiungere un account a livello di partner.</block>
   <block id="1afe8a81cfddc9fa9559e272bb6b9496" category="list-text">Dopo aver effettuato l'accesso, NetApp memorizzerà il nome utente NSS.</block>
   <block id="1dcb63fd55c4d22e87cb32275b8cc808" category="inline-image-macro">Un'icona di tre punti orizzontali</block>
-  <block id="0dfcbbbe02d3e96f8ad78782e8772587" category="paragraph">Si tratta di un ID generato dal sistema che corrisponde al tuo indirizzo email. Nella pagina *Gestione NSS*, puoi visualizzare la tua email da<block ref="5151db0ded96d46f40ae09b5e5b167a1" category="inline-image-macro-rx" type="image"></block> menu.</block>
-  <block id="fc79de85a483938f72fbcb9822ec0ae3" category="list-text">Se hai bisogno di aggiornare i token delle credenziali di accesso, è disponibile anche l'opzione *Aggiorna credenziali* in<block ref="5151db0ded96d46f40ae09b5e5b167a1" category="inline-image-macro-rx" type="image"></block> menu.</block>
   <block id="b14d512a3c64fb5df16f6721b0603c63" category="paragraph">Utilizzando questa opzione ti verrà richiesto di effettuare nuovamente l'accesso. Si noti che il token per questi account scade dopo 90 giorni. Verrà pubblicata una notifica per avvisarti di ciò.</block>
   <block id="1c85b72120b585028490f9cb2c62a430" category="summary">La pianificazione del ciclo di vita fornisce raccomandazioni per i sistemi AFF in base alla crescita prevista dei dati.  Puoi accettare la previsione oppure inserire la tua previsione.  Sulla base di ciò, la pianificazione del ciclo di vita presenta raccomandazioni che soddisfano le proiezioni di crescita della capacità e sono le più ottimali per la configurazione delle risorse.</block>
   <block id="a4b7f4fbb927af10488fb0f1be9b7aa8" category="paragraph">La pianificazione del ciclo di vita fornisce raccomandazioni per i sistemi AFF in base alla crescita prevista dei dati.  Puoi accettare la previsione oppure inserire la tua previsione.  Sulla base di ciò, la pianificazione del ciclo di vita presenta raccomandazioni che soddisfano le proiezioni di crescita della capacità e sono le più ottimali per la configurazione delle risorse.</block>
-  <block id="d61c6fe6373ce09cb70846c4b4009e46" category="paragraph">Uno dei consigli potrebbe essere quello di aumentare la capacità aggiungendo ripiani al numero di serie esistente.</block>
   <block id="417aeeb6b45f27026b8f5da134cf808b" category="paragraph">Puoi facilmente inviare la raccomandazione come richiesta di preventivo o come richiesta di opzioni alternative al team di vendita NetApp .</block>
   <block id="0aa8eee6dc5796fb05ecd4c09063d90a" category="inline-link-macro">Accedi alla NetApp Console</block>
   <block id="efafc891275242e940b48eac42ac5d2a" category="list-text"><block ref="44b0339ddb110b80a3345d53f4eba5a4" category="inline-link-macro-rx"></block> .</block>
   <block id="1f95877e26de3e2da5e124cfece7b78d" category="list-text">Selezionare *Pianificazione della capacità*.</block>
   <block id="516d28f53c7dff8d7f269aaa4d14b40e" category="list-text">Selezionare *Valuta opzioni di archiviazione* per la risorsa.</block>
-  <block id="dfa90aeb29550058022b6b79dc2fcab1" category="list-text">Seleziona *Aggiungi capacità*.</block>
   <block id="acdb4b15420328ba01cc67b594eb95b8" category="paragraph">Vengono visualizzati i dati della risorsa.</block>
   <block id="1e9b75d12e4760def37dda99030a043c" category="list-text">Esaminare le previsioni, l'utilizzo, l'andamento della latenza e l'andamento degli IOPS.</block>
   <block id="53bfb6623aa4226a9a7abd1da46938ee" category="list-text">Per ottenere consigli, seleziona *Valuta opzioni di archiviazione*.</block>
@@ -358,12 +312,8 @@
   <block id="51719535acedbf69edcd6974f73c1601" category="list-text">Dopo aver individuato il cluster, impostare la suddivisione in livelli.</block>
   <block id="dbf638b2df9fdd6b028f3a442df69395" category="inline-link">Documentazione NetApp Cloud Tiering</block>
   <block id="7a353d1354dac3a31294d1ad9949331e" category="paragraph">Per i dettagli sulla suddivisione in livelli, fare riferimento a<block ref="77dfa5d928d441d47a9ada2cff006f53" category="inline-link-rx"></block> .</block>
-  <block id="fb6c4a6ba34ef32defa8d30ffb27dc4b" category="summary">Se disponi di risorse esistenti e desideri effettuare una valutazione per stabilire se è consigliabile un aggiornamento tecnologico, puoi utilizzare l'opzione di aggiornamento tecnologico della pianificazione del ciclo di vita.  Il processo valuta i tuoi attuali carichi di lavoro e risorse e ti fornisce consigli su come procedere.  Oppure puoi provare una simulazione del carico di lavoro.</block>
-  <block id="28d71a1e618675bdef45ff1e59be4038" category="doc">Valutare un aggiornamento tecnologico utilizzando la pianificazione del ciclo di vita</block>
-  <block id="2e0d5c7f5dda8a1f356c9e675b3f71bd" category="paragraph">Se disponi di risorse esistenti e desideri stabilire se è consigliabile un aggiornamento tecnologico, puoi utilizzare le opzioni di aggiornamento tecnologico della pianificazione del ciclo di vita.  Puoi esaminare una breve valutazione dei tuoi carichi di lavoro attuali e ricevere consigli oppure, se hai inviato i registri AutoSupport a NetApp negli ultimi 90 giorni, il servizio può fornire una simulazione del carico di lavoro per vedere come si comportano i tuoi carichi di lavoro sul nuovo hardware.</block>
   <block id="c1df900b707f6cd8b297fcefd8af961c" category="list-text"><block ref="3bb80309ab3efc46643e12a3c466df63" category="inline-xref-macro-rx"></block></block>
   <block id="3a6ef779c7756458c04e7911e9d5bd22" category="list-text"><block ref="aeecc3b20f94ea0eee23729012d11867" category="inline-xref-macro-rx"></block></block>
-  <block id="8aec41c7ba6a608ecc5e3bf075c75955" category="paragraph">I sistemi sono considerati candidati per un aggiornamento tecnologico in base a quanto segue:</block>
   <block id="86602ed92a03b859038bb7756a757229" category="list-text">Avvicinandosi alla fine del contratto di supporto tecnico</block>
   <block id="c38a9e42a96b1f7a4348f94a647dbf2f" category="list-text">Avvicinandosi alla fine del ciclo di vita dell'hardware</block>
   <block id="869f59d2ae09cc5c642d6874113ec74d" category="admonition">È possibile accedere a questa funzionalità tramite la pianificazione del ciclo di vita o tramite Digital Advisor.</block>
@@ -372,19 +322,11 @@
   <block id="a6c4b361fe037e9829a1b6c444d3c045" category="list-text">Seleziona i sistemi che vuoi valutare.</block>
   <block id="c30e6ddb6c5a57eadc6068b4fb442fa0" category="list-text">Specifica i tuoi requisiti in merito ad ambienti, tipi di carico di lavoro, capacità, prestazioni e budget.</block>
   <block id="e0d081d97c8f3ae3f0917ae9aa59bc00" category="list-text">Visualizza i consigli sui prodotti e servizi cloud più adatti che potrebbero migliorare le prestazioni del tuo ambiente.</block>
-  <block id="3b36f4b6bc4ec4b1b6204b51db2d5310" category="list-text">Seleziona *Aggiornamento tecnologico*.</block>
-  <block id="3a9ff9e61ff49a5a72a2d6b20d63dcee" category="inline-image-macro">Pagina di aggiornamento tecnologico che mostra i candidati all'aggiornamento tecnologico</block>
-  <block id="4ff59188fe0581ed4553e8d2672e289b" category="paragraph"><block ref="4ff59188fe0581ed4553e8d2672e289b" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="b144465a79421b6ed1853869bd650ffe" category="list-text">Consulta la scheda *Candidati all'aggiornamento tecnologico*, che elenca tutti i sistemi che potrebbero trarre vantaggio da un aggiornamento tecnologico.</block>
   <block id="4fe59dee5c231845a4fd66f902820f8b" category="list-text">Seleziona il sistema su cui vuoi ottenere una valutazione.</block>
   <block id="f72458015275b72478d3c8356aa2a853" category="list-text">Dalla colonna Azioni, seleziona *Valuta aggiornamento*.</block>
-  <block id="41dd9cb81e846a2b92ce0dc8d3bab0f4" category="inline-image-macro">Sistemi da includere nell'aggiornamento tecnologico</block>
-  <block id="ee37d63f7086468bf9d7a51a647d233a" category="paragraph"><block ref="ee37d63f7086468bf9d7a51a647d233a" category="inline-image-macro-rx" type="image"></block></block>
   <block id="5163b220b10897250bf3e170ce6daa9c" category="list-text">Selezionare il sistema o i sistemi su cui si desidera eseguire la valutazione e selezionare *Avanti*.</block>
   <block id="806dd078b829587301ef35da4ff329f4" category="list-text">Definire i requisiti:</block>
   <block id="097e04f6385b45e9e5eb37d62ff925b9" category="list-text">*Ambienti*: seleziona i tipi di ambiente desiderati: cloud pubblico, cloud ibrido o on-premise.</block>
-  <block id="b6b10bd24bddb16fc0121f5a5567474e" category="inline-image-macro">Pagina dei requisiti di aggiornamento tecnologico che mostra le scelte ambientali</block>
-  <block id="fa7b0e3f5be9f2a26b76a97b7b84aa84" category="paragraph"><block ref="fa7b0e3f5be9f2a26b76a97b7b84aa84" category="inline-image-macro-rx" type="image"></block></block>
   <block id="f0d5a5bcec2b02dc4f30e9cac55af1ef" category="list-text">*Carichi di lavoro*: seleziona tutti i tipi di carichi di lavoro che desideri gestire: applicazioni aziendali critiche, analisi e calcolo ad alte prestazioni, data lake e flussi di lavoro multimediali, storage secondario o carichi di lavoro meno critici.</block>
   <block id="6f29ee9b7199fc42e3e35abdfdbe7825" category="inline-image-macro">Scelte del carico di lavoro</block>
   <block id="f2a5b15c77282cbeff7cf30606c436fa" category="paragraph"><block ref="f2a5b15c77282cbeff7cf30606c436fa" category="inline-image-macro-rx" type="image"></block></block>
@@ -401,17 +343,11 @@
   <block id="3369d572efb7971966d65671e9a87c83" category="list-text">Per scaricare un PDF delle raccomandazioni, seleziona *Scarica*.</block>
   <block id="778c1b7029a1912f763bb976dd5e31f2" category="list-text">Per contattare un rappresentante commerciale NetApp in merito ai consigli, seleziona *Contatta il reparto vendite*.  Una pagina web mostra le opzioni tra cui puoi scegliere per contattare un rappresentante commerciale NetApp .</block>
   <block id="560e42e6da9452e07ba03414df4da014" category="list-text">Selezionare *Fine*.</block>
-  <block id="8e4d9596ef29e6bf948898e20b66f6c4" category="section-title">Visualizza le valutazioni di aggiornamento tecnologico già effettuate</block>
-  <block id="2be881e5370ff5fb4545cae0fccc4747" category="paragraph">Potresti voler rivedere le valutazioni di aggiornamento tecnologico che hai già effettuato e rivedere nuovamente le raccomandazioni.</block>
-  <block id="e58cff21ee4a44f6f860c9c2ea91950f" category="list-text">Dal menu di navigazione a sinistra NetApp Console , seleziona *Governance* &gt; *Pianificazione del ciclo di vita* &gt; *Aggiornamento tecnologico*.</block>
-  <block id="cfdbfc3f5dc775fe2319a5021b966ab5" category="list-text">Seleziona la scheda *Candidati all'aggiornamento tecnologico*, che elenca tutti i sistemi su cui hai sostenuto una valutazione di aggiornamento tecnologico.  Quindi, dal menu Azioni sulla riga relativa a quel sistema, seleziona per visualizzare le valutazioni e le raccomandazioni per quel sistema.</block>
   <block id="94750197e906cc2c9191e06c19bbb219" category="list-text">Nella pagina Valuta opzioni di aggiornamento, seleziona *Visualizza raccomandazione*.</block>
   <block id="77897fd355d4822999b6e016d2698bb2" category="list-text">Visualizza i consigli di aggiornamento.</block>
   <block id="a56822a7ed8b771ff664c8a2c312313d" category="section-title">Simulare carichi di lavoro su nuovo hardware</block>
   <block id="1b72528e20ead2d97bbb081bc17dd1f5" category="paragraph">Se hai inviato i log AutoSupport a NetApp negli ultimi 90 giorni, NetApp è in grado di fornire una simulazione per vedere come si comportano i tuoi carichi di lavoro sul nuovo hardware.</block>
   <block id="1f82c319eafb82533c3039aa2fc758a1" category="paragraph">È possibile includere o escludere carichi di lavoro specifici dalla simulazione.  È anche possibile aggiungere carichi di lavoro se non compaiono nell'elenco dei carichi di lavoro esistenti.</block>
-  <block id="18e03fe3f044e3b4882d1224f6b64647" category="inline-image-macro">Pagina di aggiornamento tecnologico che mostra la scheda Candidati per l'aggiornamento tecnologico</block>
-  <block id="ea1f2682b580a987049be53745fb1a38" category="paragraph"><block ref="ea1f2682b580a987049be53745fb1a38" category="inline-image-macro-rx" type="image"></block></block>
   <block id="866d2063657c0dc4b4f64e3a2328610d" category="list-text">Nella colonna Azioni, seleziona *Valuta aggiornamento*.</block>
   <block id="62ae1f29a7b20f4a204a10e7fb5bb187" category="admonition">la pianificazione del ciclo di vita importa i dettagli del carico di lavoro in preparazione della simulazione.</block>
   <block id="bd3c9da01d9261aa3a93e740620c99a3" category="inline-image-macro">Pagina di simulazione dei carichi di lavoro che mostra le opzioni dei requisiti</block>
@@ -493,4 +429,68 @@
   <block id="daf104544b5203a46e1580e1b8583f1f" category="paragraph">L'associazione delle credenziali NSS al tuo account NetApp Console è diversa dall'associazione dell'account NSS all'accesso utente della Console.</block>
   <block id="5bc1315a63455544e7a917a7cc968939" category="paragraph">Queste credenziali NSS sono associate al tuo ID account Console specifico. Gli utenti che appartengono all'organizzazione Console possono accedere a queste credenziali da *Supporto &gt; Gestione NSS*.</block>
   <block id="7687b0a57d5cb728d9fb892dfc814715" category="paragraph">Queste azioni consentono alla Console di utilizzare il tuo account NSS per attività quali download di licenze, verifica di aggiornamenti software e future registrazioni di supporto.</block>
+  <block id="02c43db7108a3accce59c81a27ac4ef5" category="doc">Aggiornamenti dei nomi delle funzionalità di pianificazione del ciclo di vita</block>
+  <block id="4c5232cce8bc78f484d71da8ffcfef7b" category="paragraph">Le seguenti funzionalità di pianificazione del ciclo di vita hanno subito modifiche di nome:</block>
+  <block id="c1e03330b4662e637d1bbe6857651076" category="inline-link-macro">valutare un aggiornamento del sistema</block>
+  <block id="d5ed2e99bd371bcfc460d6572a12add2" category="list-text">La funzione di aggiornamento tecnologico ora si chiama *Aggiornamento del sistema*. Scopri come <block ref="433ac4cec3ceaf7ac84bdaec77992d24" category="inline-link-macro-rx"></block>.</block>
+  <block id="dde36ba383e039cbac61a2f920672ee0" category="inline-link-macro">espandere lo spazio di archiviazione</block>
+  <block id="7909728a25fab3130222a99358ae67a5" category="list-text">La funzione di aggiunta di capacità ora si chiama *Espansione di archiviazione*. Scopri come <block ref="09884e6ec96fe38b804dd493528c8e70" category="inline-link-macro-rx"></block>.</block>
+  <block id="0f1f31b4920f5002f5c30d37073cc590" category="inline-link-macro">registrati per ricevere supporto</block>
+  <block id="7cd293fac76115b83fb817b31f0dbdf7" category="list-text">La funzionalità Rinnovi ora si chiama *Support Renewals*. Scopri come <block ref="5eb4e7d9f21654c7ba8e676257b3a3cd" category="inline-link-macro-rx"></block>.</block>
+  <block id="088552022b0515cdd74e912dbfe6d8bb" category="admonition">È possibile accedere a questa funzionalità tramite la NetApp Console (*Archiviazione* &gt; *Pianificazione ciclo di vita*) oppure tramite Digital Advisor (*Dashboard* &gt; *Widget di pianificazione* &gt; *Aggiornamento sistema*).</block>
+  <block id="c7e292ecd46e28197c2d77d6f0917d59" category="paragraph">È possibile creare un agente Console direttamente nella Console e utilizzarlo in seguito nella pianificazione del ciclo di vita. In alternativa, è possibile creare l'agente Console durante il processo di remediation della capacità.</block>
+  <block id="5d11bcc7cf307d62a4d48acb86aadb7e" category="paragraph">La pianificazione del ciclo di vita valuta le risorse di archiviazione con capacità ridotta attuale o prevista e fornisce raccomandazioni sulle opzioni di tiering dei dati che soddisfano le esigenze aziendali.</block>
+  <block id="4e0862c373675161e6e582e19dd003c7" category="list-text">Identifica i sistemi che si stanno avvicinando a eventi del ciclo di vita per aiutarti a pianificare un aggiornamento del sistema</block>
+  <block id="730fd1f7c58f2b99314d50716de954c8" category="paragraph">È possibile accedere a questa funzionalità tramite la NetApp Console (*Archiviazione* &gt; *Pianificazione del ciclo di vita*) oppure tramite Active IQ Digital Advisor (anche noto come Digital Advisor) (*Dashboard* &gt; *Widget di pianificazione* &gt; *Aggiornamento del sistema*).</block>
+  <block id="66f33ec553970161629b00ebcf098d90" category="doc">Limitazioni della pianificazione del ciclo di vita</block>
+  <block id="6d0ce34323c5bcd47c92eaad67ab1145" category="summary">Il servizio di pianificazione del ciclo di vita NetApp identifica i cluster con capacità attuale o prevista ridotta e fornisce raccomandazioni sulla suddivisione dei dati in livelli o sull'aggiunta di capacità (per sistemi AFF). Il servizio fornisce anche raccomandazioni per l'aggiornamento dei sistemi che si avvicinano alla fine del ciclo di vita.</block>
+  <block id="47c77878a7175f3cc904ae84821cbc37" category="section-title">03 giugno 2026</block>
+  <block id="2feeca48692986e9cc471ec61f847fca" category="paragraph">NetApp fornisce supporto per NetApp Console e i relativi servizi cloud in diversi modi. Sono disponibili numerose opzioni di auto-supporto gratuite 24/7, come articoli della knowledge base (KB) e un forum della community. La registrazione al supporto include supporto tecnico remoto tramite ticket web.</block>
+  <block id="317cbd2c4fdbfd06a6c66bcd3f57d7ad" category="paragraph">Per supporto tecnico relativo a un cloud provider file service, alla sua infrastruttura o a qualsiasi soluzione che utilizzi tale servizio, fare riferimento alla documentazione per quel prodotto.</block>
+  <block id="68e6fe8cde496154d24fd032b4262070" category="paragraph">Per ricevere supporto tecnico specifico per NetApp e le sue soluzioni di archiviazione e i suoi servizi dati, utilizzare le opzioni di supporto descritte di seguito.</block>
+  <block id="5bb94d173380c00577f5e04b6f26bb94" category="paragraph">La documentazione della NetApp Console che stai visualizzando.</block>
+  <block id="0e20091afcea2d83d0033a933ba85092" category="paragraph">Consulta la NetApp knowledge base per trovare articoli utili alla risoluzione dei problemi.</block>
+  <block id="777d75a90b107e4f18469f82c4f81fe2" category="paragraph">Unisciti alla community NetApp Console per seguire le discussioni in corso o avviarne di nuove.</block>
+  <block id="c406bf0ac8ac87bc5bb7132a7351b2ae" category="inline-link">Scopri come gestire le credenziali associate al tuo accesso alla NetApp Console</block>
+  <block id="377118f28487e70bd456993144b72fc7" category="list-text">Per utilizzare la funzionalità *Crea un caso*, devi prima associare le tue credenziali del sito di supporto NetApp al tuo accesso alla Console.<block ref="68c4321a756e3ffe955b62cff6fea46d" category="inline-link-rx"></block>.</block>
+  <block id="0ab80a63088581d58dcf067051f4c894" category="list-text">Nella NetApp Console, seleziona *Aiuto &gt; Supporto*.</block>
+  <block id="a1123cd59d7bd876c080c33906ae65ce" category="list-text">*Servizio*: Seleziona il servizio a cui è associato il problema. Ad esempio, *NetApp Console* quando si tratta di un problema specifico di supporto tecnico relativo a flussi di lavoro o funzionalità all'interno della Console.</block>
+  <block id="987df7518e2afb50a860647c832afd13" category="list-text">*Sistema*: Se applicabile allo storage, selezionare *Cloud Volumes ONTAP* o *On-Prem* e quindi l'ambiente di lavoro associato.</block>
+  <block id="8f8e8a86e5f52b6186a37bdf266c4320" category="paragraph">L'elenco dei sistemi rientra nell'ambito dell'organizzazione Console e dell'agente Console selezionato nella barra superiore.</block>
+  <block id="77c89527ec8a9f89b24c5579d19b3b4b" category="paragraph"><block ref="77c89527ec8a9f89b24c5579d19b3b4b" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="178fdaf97b1d1577437f11ee9d5e5229" category="paragraph">Questo errore potrebbe significare che l'account NSS e l'azienda di riferimento a cui è associato non coincidono con l'azienda di riferimento per il NetApp Console account numero di serie (ad esempio, 960xxxx) o per il numero di serie dell'ambiente di lavoro. È possibile richiedere assistenza utilizzando una delle seguenti opzioni:</block>
+  <block id="e1100b46295d42ed50ba7a4630710164" category="section-title">Gestisci le tue richieste di assistenza</block>
+  <block id="316508a3483178100806a9d44b49aba2" category="paragraph">Dalla Console è possibile visualizzare e gestire i casi di supporto attivi e risolti. È possibile gestire i casi associati al proprio account NSS e alla propria azienda.</block>
+  <block id="9163e8bca6fd93c080d35ab49e3efdfa" category="list-text">Nella NetApp Console, selezionare *Aiuto &gt; Supporto*.</block>
+  <block id="2019fd19051c3ef493dbbb9ca65bab87" category="list-text">Seleziona *Gestione dei casi* e, se richiesto, aggiungi il tuo account NSS alla Console.</block>
+  <block id="75e54e3a6fdbf43ed890669e079d7594" category="paragraph">La pagina *Gestione dei casi* mostra i casi aperti relativi all'account NSS associato al tuo account utente della Console. Si tratta dello stesso account NSS che compare nella parte superiore della pagina *Gestione NSS*.</block>
+  <block id="8ac6be88c1aa79062825a147fb263b0e" category="list-text">Modifica le colonne visualizzate nella tabella selezionando <block ref="500a336e7ba1c54bcffba4e27bda4eb6" category="inline-image-macro-rx" type="image"></block> e scegliendo le colonne che desideri visualizzare.</block>
+  <block id="049b7b9fab1242f5e715952973c9474d" category="list-text">Gestisci un caso esistente selezionando <block ref="7381d9baeaf62eb099ce84f1a21ed5ca" category="inline-image-macro-rx" type="image"></block> e selezionando una delle opzioni disponibili:</block>
+  <block id="38fc1b337c0ea26463916fc2913205c1" category="paragraph"><block ref="38fc1b337c0ea26463916fc2913205c1" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="7019a39846e9a2c7f7a80eaba91e4a41" category="paragraph"><block ref="7019a39846e9a2c7f7a80eaba91e4a41" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="1d593c3f7480ada9580d93cd753c3f93" category="paragraph">Si tratta di un ID generato dal sistema che corrisponde al tuo indirizzo email. Nella pagina *Gestione NSS*, puoi visualizzare il tuo indirizzo email dal <block ref="5444f6f0c3983523c8933a1864b2b390" category="inline-image-macro-rx" type="image"></block> menu.</block>
+  <block id="872eaae7deb6035c20f9bfe6deefd03d" category="list-text">Se dovessi mai aver bisogno di aggiornare i token delle tue credenziali di accesso, c'è anche un'opzione *Aggiorna credenziali* nel menu <block ref="5444f6f0c3983523c8933a1864b2b390" category="inline-image-macro-rx" type="image"></block>.</block>
+  <block id="61df008f4e015b91b9f0d58de0b5e47b" category="doc">Espansione dello spazio di archiviazione con pianificazione del ciclo di vita</block>
+  <block id="97944c01bd78cba2f90fd5780d3e1118" category="paragraph">Uno dei suggerimenti potrebbe essere quello di espandere lo storage aggiungendo shelf al tuo numero di serie esistente.</block>
+  <block id="dc2090660aa2b73abd03451a55127a78" category="list-text">Seleziona *Espansione storage* (precedentemente Add Capacity).</block>
+  <block id="25c60b882c33c638e47906d1ff3e1d5e" category="summary">Se disponi già di risorse e desideri effettuare una valutazione per stabilire se è consigliabile un aggiornamento del sistema, puoi utilizzare l'opzione di aggiornamento del sistema di pianificazione del ciclo di vita. Il processo analizza i carichi di lavoro e le risorse attuali e fornisce raccomandazioni su come procedere. In alternativa, puoi provare una simulazione del carico di lavoro.</block>
+  <block id="35439d74253bf8520608ab30c3724915" category="doc">Valutare un aggiornamento del sistema utilizzando la pianificazione del ciclo di vita</block>
+  <block id="b9962ab1926df6115f05fa8356c61059" category="paragraph">Se disponi di risorse esistenti e desideri valutare se è consigliabile un aggiornamento del sistema, puoi utilizzare le opzioni di aggiornamento del sistema di pianificazione del ciclo di vita. Puoi esaminare una breve valutazione dei tuoi carichi di lavoro attuali e ricevere raccomandazioni, oppure, se hai inviato i log AutoSupport a NetApp negli ultimi 90 giorni, il servizio può fornire una simulazione del carico di lavoro per vedere come si comportano i tuoi carichi di lavoro sul nuovo hardware.</block>
+  <block id="e34f570cd9aecb4ff5db7a51ad9fa4b5" category="paragraph">I sistemi vengono considerati candidati per un aggiornamento in base ai seguenti criteri:</block>
+  <block id="e27324efea1d670edc78dd94178b090b" category="list-text">Seleziona *Aggiornamento del sistema*.</block>
+  <block id="1a50abdb4c391cf1b2ec24d235f58e7d" category="inline-image-macro">Pagina di aggiornamento del sistema che mostra i candidati per l'aggiornamento del sistema</block>
+  <block id="7c668234a677ed6e44386b2414b0e92d" category="paragraph"><block ref="7c668234a677ed6e44386b2414b0e92d" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="3805288fb731960ba3e5acf404c8857b" category="list-text">Consulta la scheda *Candidati per l'aggiornamento del sistema*, che elenca tutti i sistemi che potrebbero trarre vantaggio da un aggiornamento del sistema.</block>
+  <block id="7c25aa9f3fc658ad554dc40ca920c439" category="inline-image-macro">Sistemi da includere nell'aggiornamento del sistema</block>
+  <block id="34898015d5a1a4b48a3f444cb7b325ef" category="paragraph"><block ref="34898015d5a1a4b48a3f444cb7b325ef" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="73272ef50ad2485f86624d59bd5a1e02" category="inline-image-macro">Pagina dei requisiti di aggiornamento del sistema che mostra le scelte dell'ambiente</block>
+  <block id="2ffaae493d4d484b9d95b65dd7a80b25" category="paragraph"><block ref="2ffaae493d4d484b9d95b65dd7a80b25" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="a80bd27b5d4618a3b50d294a9510b0b2" category="section-title">Visualizza le valutazioni di aggiornamento del sistema già effettuate</block>
+  <block id="28cc50b7d4261025e86b0491e6f2e124" category="paragraph">È possibile rivedere le valutazioni di aggiornamento del sistema già effettuate e rileggere i relativi consigli.</block>
+  <block id="c3d74488f443efdc96445241e121c9b4" category="list-text">Dal menu di navigazione a sinistra della NetApp Console, selezionare *Archiviazione* &gt; *Pianificazione del ciclo di vita* &gt; *Aggiornamento del sistema*.</block>
+  <block id="fa32d96bba3596cce01d7244f327a140" category="list-text">Seleziona la scheda *Candidati all'aggiornamento del sistema*, che elenca tutti i sistemi per i quali hai eseguito una valutazione di aggiornamento. Quindi, dal menu Azioni sulla riga corrispondente a quel sistema, seleziona l'opzione per visualizzare le valutazioni e i consigli relativi a quel sistema.</block>
+  <block id="1058f4c1268b8ea3ec46c99a90d24530" category="list-text">Dal menu di navigazione a sinistra della NetApp Console, selezionare *Governance* &gt; *Pianificazione del ciclo di vita* &gt; *Aggiornamento del sistema*.</block>
+  <block id="dfceb29612aac32946a40da0b168e4ff" category="inline-image-macro">Pagina di aggiornamento del sistema che mostra la scheda dei candidati all'aggiornamento del sistema</block>
+  <block id="62a1d854312df8a4e7de58c42e66e00c" category="paragraph"><block ref="62a1d854312df8a4e7de58c42e66e00c" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="42e49cdb3823814b9959fddc7c9089b9" category="sidebar">Espansione dello storage</block>
 </blocks>

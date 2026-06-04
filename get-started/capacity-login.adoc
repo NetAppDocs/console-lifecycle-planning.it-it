@@ -17,7 +17,7 @@ Per accedere alla pianificazione del ciclo di vita, è possibile utilizzare la N
 Per accedere alla Console, puoi utilizzare le credenziali del sito di supporto NetApp . https://docs.netapp.com/us-en/bluexp-setup-admin/task-logging-in.html["Scopri di più sull'accesso"^] .
 
 
-TIP: È possibile accedere a questa funzionalità tramite la NetApp Console (*Storage* > *Pianificazione del ciclo di vita*) o tramite Digital Advisor (*Dashboard* > *Widget di pianificazione* > *Aggiornamento tecnologico*).
+TIP: È possibile accedere a questa funzionalità tramite la NetApp Console (*Archiviazione* > *Pianificazione ciclo di vita*) oppure tramite Digital Advisor (*Dashboard* > *Widget di pianificazione* > *Aggiornamento sistema*).
 
 .Passi
 . Apri un browser web e vai su https://console.netapp.com/["la NetApp Console"^] .

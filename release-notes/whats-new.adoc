@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: release-notes/whats-new.html 
 keywords: economic efficiency faq, bluexp, lifecycle planning frequently asked questions 
-summary: 'Il servizio di pianificazione del ciclo di vita NetApp identifica i cluster con capacità attuale o prevista bassa e fornisce consigli sulla suddivisione in livelli dei dati o sulla capacità aggiuntiva (per i sistemi AFF ).  Il servizio fornisce anche consigli sull"aggiornamento tecnologico dei sistemi prossimi alla fine del loro ciclo di vita.' 
+summary: 'Il servizio di pianificazione del ciclo di vita NetApp identifica i cluster con capacità attuale o prevista ridotta e fornisce raccomandazioni sulla suddivisione dei dati in livelli o sull"aggiunta di capacità (per sistemi AFF). Il servizio fornisce anche raccomandazioni per l"aggiornamento dei sistemi che si avvicinano alla fine del ciclo di vita.' 
 ---
 = Novità nella pianificazione del ciclo di vita
 :hardbreaks:
@@ -13,6 +13,21 @@ summary: 'Il servizio di pianificazione del ciclo di vita NetApp identifica i cl
 
 [role="lead"]
 Scopri le novità nella pianificazione del ciclo di vita.
+
+
+
+== 03 giugno 2026
+
+
+
+=== Aggiornamenti dei nomi delle funzionalità di pianificazione del ciclo di vita
+
+Le seguenti funzionalità di pianificazione del ciclo di vita hanno subito modifiche di nome:
+
+* La funzione di aggiornamento tecnologico ora si chiama *Aggiornamento del sistema*. Scopri come link:../use/tech-refresh.html["valutare un aggiornamento del sistema"].
+* La funzione di aggiunta di capacità ora si chiama *Espansione di archiviazione*. Scopri come link:../use/capacity-add.html["espandere lo spazio di archiviazione"].
+* La funzionalità Rinnovi ora si chiama *Support Renewals*. Scopri come link:../support/task-support-registration.html["registrati per ricevere supporto"].
+
 
 
 
