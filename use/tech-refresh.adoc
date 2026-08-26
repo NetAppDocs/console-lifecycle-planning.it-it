@@ -4,7 +4,7 @@ permalink: use/tech-refresh.html
 keywords: lifecycle planning, system refresh, technology update, hardware assessment 
 summary: 'Se disponi già di risorse e desideri effettuare una valutazione per stabilire se è consigliabile un aggiornamento del sistema, puoi utilizzare l"opzione di aggiornamento del sistema di pianificazione del ciclo di vita. Il processo analizza i carichi di lavoro e le risorse attuali e fornisce raccomandazioni su come procedere. In alternativa, puoi provare una simulazione del carico di lavoro.' 
 ---
-= Valutare un aggiornamento del sistema utilizzando la pianificazione del ciclo di vita
+= Valuta un aggiornamento del sistema con la pianificazione del ciclo di vita
 :hardbreaks:
 :allow-uri-read: 
 :icons: font
@@ -29,6 +29,7 @@ TIP: È possibile accedere a questa funzionalità tramite la pianificazione del 
 
 
 
+[[take-a-refresh-assessment]]
 == Fai una valutazione di aggiornamento
 
 La valutazione comprende i seguenti passaggi:
@@ -87,6 +88,7 @@ image:tech-refresh-view-recommendations2.png["Visualizza la pagina delle raccoma
 
 
 
+[[view-system-refresh-assessments-already-taken]]
 == Visualizza le valutazioni di aggiornamento del sistema già effettuate
 
 È possibile rivedere le valutazioni di aggiornamento del sistema già effettuate e rileggere i relativi consigli.
@@ -103,6 +105,7 @@ image:tech-refresh-view-recommendations2.png["Visualizza la pagina delle raccoma
 
 
 
+[[simulate-workloads-on-new-hardware]]
 == Simulare carichi di lavoro su nuovo hardware
 
 Se hai inviato i log AutoSupport a NetApp negli ultimi 90 giorni, NetApp è in grado di fornire una simulazione per vedere come si comportano i tuoi carichi di lavoro sul nuovo hardware.
@@ -161,6 +164,7 @@ I suggerimenti derivanti dalla simulazione del carico di lavoro vengono inviati 
 
 
 
+[[add-a-workload]]
 == Aggiungi un carico di lavoro
 
 È possibile aggiungere alla simulazione del carico di lavoro un carico di lavoro non ancora elencato.

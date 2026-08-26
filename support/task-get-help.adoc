@@ -4,7 +4,7 @@ permalink: support/task-get-help.html
 keywords: help, ticket, open support case, support, netapp support, technical support, call support, phone number, open ticket, web ticket, open an issue 
 summary: 'NetApp fornisce supporto per NetApp Console in vari modi. Sono disponibili ampie opzioni di auto-assistenza gratuite 24 ore su 24, 7 giorni su 7, come articoli della knowledge base (KB) e un forum della community. La registrazione al supporto include supporto tecnico remoto tramite ticket web.' 
 ---
-= Ottieni aiuto
+= Ottieni assistenza con NetApp Console
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/
@@ -15,6 +15,7 @@ NetApp fornisce supporto per NetApp Console e i relativi servizi cloud in divers
 
 
 
+[[get-support-for-a-cloud-provider-file-service]]
 == Ottieni supporto per un servizio file di un provider cloud
 
 Per supporto tecnico relativo a un cloud provider file service, alla sua infrastruttura o a qualsiasi soluzione che utilizzi tale servizio, fare riferimento alla documentazione per quel prodotto.
@@ -28,6 +29,7 @@ Per ricevere supporto tecnico specifico per NetApp e le sue soluzioni di archivi
 
 
 
+[[use-self-support-options]]
 == Utilizzare opzioni di auto-supporto
 
 Queste opzioni sono disponibili gratuitamente, 24 ore al giorno, 7 giorni alla settimana:
@@ -48,6 +50,7 @@ Unisciti alla community NetApp Console per seguire le discussioni in corso o avv
 
 
 
+[[create-a-case-with-netapp-support]]
 == Crea un caso con il supporto NetApp
 
 Oltre alle opzioni di supporto autonomo sopra descritte, puoi collaborare con uno specialista del supporto NetApp per risolvere eventuali problemi dopo aver attivato il supporto.
@@ -104,6 +107,7 @@ Questo errore potrebbe significare che l'account NSS e l'azienda di riferimento 
 
 
 
+[[manage-your-support-cases]]
 == Gestisci le tue richieste di assistenza
 
 Dalla Console è possibile visualizzare e gestire i casi di supporto attivi e risolti. È possibile gestire i casi associati al proprio account NSS e alla propria azienda.

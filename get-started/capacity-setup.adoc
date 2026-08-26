@@ -25,6 +25,7 @@ Allo stesso modo, è possibile scoprire il cluster in anticipo utilizzando la Co
 
 
 
+[[create-a-console-agent-in-the-netapp-console]]
 == Creare un agente Console nella NetApp Console
 
 Un agente NetApp Console include le credenziali per le macchine NetApp ONTAP .
@@ -33,6 +34,7 @@ Per creare un agente Console nella Console prima di utilizzare il servizio, fare
 
 
 
+[[discover-the-cluster-in-the-netapp-console]]
 == Scopri il cluster nella NetApp Console
 
 Una parte della configurazione prevede l'identificazione del nome del cluster, dell'IP, del nome utente e della password all'interno della Console.

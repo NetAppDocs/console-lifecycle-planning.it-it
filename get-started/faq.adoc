@@ -16,6 +16,7 @@ Questa FAQ può aiutarti se stai cercando una risposta rapida a una domanda sull
 
 
 
+[[access-to-lifecycle-planning]]
 == Accesso alla pianificazione del ciclo di vita
 
 *Qual è l'URL della pianificazione del ciclo di vita?*
@@ -24,6 +25,7 @@ Per l'URL, in un browser, inserisci: https://console.netapp.com/["https://consol
 
 
 
+[[licensing]]
 == Licenza
 
 *È necessaria una licenza per utilizzare la pianificazione del ciclo di vita?*

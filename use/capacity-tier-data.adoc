@@ -4,7 +4,7 @@ permalink: use/capacity-tier-data.html
 keywords: economic efficiency remediate, economic efficiency, capacity planning, add capacity, lifecycle planning 
 summary: 'La pianificazione del ciclo di vita fornisce raccomandazioni basate sulla crescita prevista dei dati.  Puoi accettare la previsione oppure inserire la tua previsione.  Sulla base di ciò, il servizio presenta raccomandazioni che soddisfano la crescita della capacità prevista e sono le più ottimali per la configurazione delle risorse.  Uno dei consigli potrebbe essere quello di spostare i dati inattivi nell"archiviazione cloud per liberare capacità.  Questa raccomandazione avvia la connessione a NetApp Cloud Tiering, un altro prodotto.' 
 ---
-= Suddividi i dati inattivi nell'archiviazione cloud e libera lo spazio di archiviazione identificato dalla pianificazione del ciclo di vita
+= Sposta i dati cold su cloud storage con la pianificazione del ciclo di vita
 :hardbreaks:
 :allow-uri-read: 
 :icons: font

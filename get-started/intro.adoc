@@ -16,6 +16,7 @@ La pianificazione del ciclo di vita valuta le risorse di archiviazione con capac
 
 
 
+[[netapp-console]]
 == NetApp Console
 
 La pianificazione del ciclo di vita è accessibile tramite la NetApp Console.
@@ -28,6 +29,7 @@ Scopri di più su https://docs.netapp.com/us-en/bluexp-setup-admin/concept-overv
 
 
 
+[[what-can-you-do-with-lifecycle-planning]]
 == Cosa puoi fare con la pianificazione del ciclo di vita?
 
 La pianificazione del ciclo di vita può aiutarti a raggiungere i seguenti obiettivi.
@@ -40,6 +42,7 @@ La pianificazione del ciclo di vita può aiutarti a raggiungere i seguenti obiet
 
 
 
+[[benefits-of-lifecycle-planning]]
 == Vantaggi della pianificazione del ciclo di vita
 
 La pianificazione del ciclo di vita offre i seguenti vantaggi:
@@ -51,6 +54,7 @@ La pianificazione del ciclo di vita offre i seguenti vantaggi:
 
 
 
+[[cost]]
 == Costo
 
 NetApp non addebita alcun costo per l'utilizzo della pianificazione del ciclo di vita.
@@ -59,6 +63,7 @@ Se decidi di archiviare i dati inattivi su cloud, dovrai verificare con il tuo p
 
 
 
+[[access]]
 == Accesso
 
 È possibile accedere a questa funzionalità tramite la NetApp Console (*Archiviazione* > *Pianificazione del ciclo di vita*) oppure tramite Active IQ Digital Advisor (anche noto come Digital Advisor) (*Dashboard* > *Widget di pianificazione* > *Aggiornamento del sistema*).

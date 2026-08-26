@@ -4,7 +4,7 @@ permalink: use/capacity-add.html
 keywords: economic efficiency remediate, lifecycle planning, capacity planning, add capacity 
 summary: La pianificazione del ciclo di vita fornisce raccomandazioni per i sistemi AFF in base alla crescita prevista dei dati.  Puoi accettare la previsione oppure inserire la tua previsione.  Sulla base di ciò, la pianificazione del ciclo di vita presenta raccomandazioni che soddisfano le proiezioni di crescita della capacità e sono le più ottimali per la configurazione delle risorse. 
 ---
-= Espansione dello spazio di archiviazione con pianificazione del ciclo di vita
+= Espandi la capacità di archiviazione con la pianificazione del ciclo di vita
 :hardbreaks:
 :allow-uri-read: 
 :icons: font
