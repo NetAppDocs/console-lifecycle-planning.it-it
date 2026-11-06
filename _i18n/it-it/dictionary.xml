@@ -268,7 +268,6 @@
   <block id="10492389e94efdebbb66f7b0cd8a1324" category="list-text">Seleziona *Salva*.</block>
   <block id="8eea62084ca7e541d918e823422bd82e" category="paragraph-title">Risultato</block>
   <block id="49888fcfedf40834e6baa46c3569b5b4" category="paragraph">Trascorso tale periodo, il rischio ricompare nell'elenco dei rischi.</block>
-  <block id="20245c952c33fe21dea309c4b88da6b7" category="summary">Se i cluster sono attualmente al di sotto o si prevede che saranno al di sotto della soglia del 70% della capacità, la pianificazione del ciclo di vita li identifica come risorse a bassa capacità e ti avvisa.</block>
   <block id="57fe405a418d0d172d01b2eb3de8379c" category="doc">Esaminare lo stato della capacità nella pianificazione del ciclo di vita</block>
   <block id="cf9965682d8ca2a2a8060ba94c01ace5" category="paragraph">Se le risorse di storage nel tuo ambiente sono attualmente al di sotto o si prevede che saranno al di sotto della soglia del 90% della capacità, la pianificazione del ciclo di vita le identifica come risorse a bassa capacità e ti avvisa.  Inoltre, la pianificazione del ciclo di vita fornisce consigli sull'opportunità di suddividere i dati in livelli.</block>
   <block id="837d5e9f2c5cbcdab7649199e74aeb6f" category="paragraph">È possibile esaminare i seguenti tipi di dati per facilitare la risoluzione dei problemi di capacità.</block>
@@ -495,4 +494,5 @@
   <block id="e23284296f5aadb6583374303409e8bc" category="doc">Flusso di lavoro di revisione e correzione della capacità per la pianificazione del ciclo di vita</block>
   <block id="f8af3f3477e6098e54f313c0f4bbd9e7" category="doc">Sposta i dati cold su cloud storage con la pianificazione del ciclo di vita</block>
   <block id="fd496caf19c50a2efb13d24e0f4180fc" category="doc">Valuta un aggiornamento del sistema con la pianificazione del ciclo di vita</block>
+  <block id="274323025c712e3e6c79c7582e2e11fb" category="summary">Se i tuoi cluster sono attualmente al di sotto o si prevede che saranno al di sotto della soglia del 70% della capacità, la pianificazione del ciclo di vita li identifica come risorse a bassa capacità e ti avvisa.</block>
 </blocks>

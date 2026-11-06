@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: use/capacity-review-status.html 
 keywords: lifecycle planning remediate, lifecycle planning, capacity planning, forecast, capacity, storage, economic efficiency 
-summary: 'Se i cluster sono attualmente al di sotto o si prevede che saranno al di sotto della soglia del 70% della capacità, la pianificazione del ciclo di vita li identifica come risorse a bassa capacità e ti avvisa.' 
+summary: 'Se i tuoi cluster sono attualmente al di sotto o si prevede che saranno al di sotto della soglia del 70% della capacità, la pianificazione del ciclo di vita li identifica come risorse a bassa capacità e ti avvisa.' 
 ---
 = Esaminare lo stato della capacità nella pianificazione del ciclo di vita
 :hardbreaks:
